@@ -101,18 +101,22 @@ navbar:
     url     : /introduction	
   - title   : Tools
     url     : /tools
-  - title   : Project Design
-    child   :
-      - title : Data Management
-        url   : project-design/data-management
-      - title : Timelines
-        url   : project-design/timelines
-      - title : Resourcing
-        url   : project-design/resourcing
-      - title : Usability
-        url   : project-design/usability
-  - title   : Collections and Resources
-    url     : /collections-resources
+  # - title   : Project Design
+  #   child   :
+  #     - title : Data Management
+  #       url   : project-design/data-management
+  #     - title : Timelines
+  #       url   : project-design/timelines
+  #     - title : Resourcing
+  #       url   : project-design/resourcing
+  #     - title : Usability
+  #       url   : project-design/usability
+  - title   : Collections
+    url     : /collections
+  - title   : Resources
+    url     : /resources
+  - title   : How do I?
+    url     : /how-do-i
   - title   : About
     url     : /about
   - title   : Contact and Help

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Collections
-subtitle: Where do I get data for spatial projects?
-permalink: collections
+title: Resources
+subtitle: Where do I go for online resources?
+permalink: resources
 include_on_search: true
 show_breadcrumb: true
 breadcrumb_list:
