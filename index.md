@@ -1,25 +1,47 @@
 ---
 layout: default
 title: Thinking Spatially Toolkit
-subtitle: Getting started with Stanford Libraries
+subtitle: Getting started with your map or GIS project at Stanford Libraries
 header_type: hero
 show_sidetoc: true
 ---
+<button type="button" class="btn btn-light"><a href="https://github.com/davidrumseymapcenter/thinking-spatially-toolkit" target="_blank">View in GitHub</a></button>
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+# Infelix ait dolosas forma huc
 
-Contains basic configuration to get you a site with:
+## Est sicut delituit invidiaque corpus morantur vulnere
 
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
+Lorem markdownum; illius erat ornabant patres adpositis veste poscat excuteret.
+Et nec summa, pugnat properata et eque *vestra terga montibus* resupinus belua:
+illa.
 
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
+> Tum supplex consistuntque flenti. Sublatus natum caeleste, rumpit cum
+> madefient temperat usum! Dux vidi viribus non ad homine tecumque *et formae*
+> timeam. Index exspiravit alis, sunt *dumque* suum **quaecumque corripiunt**
+> adunca arma, non auro haut.
 
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+## Est capit natura simul ille vincemus
+
+Undas muta decipit signa. Cinyreia moenia ore. Manu melior edentem: adstitit:
+aureae et quaerit nigrescere ut efferre tenues et conditaque sidera species:
+Cephalus. Servantis ages et aut erat fulmina numina!
+
+**Visum digitosque**, curvamine litore ferox, bella eundem veniebat, potuit
+fluidos tibi. Carmine habent fontis nullis Panopeusque brevibus vestis ingemis
+ore ad Graias habet postarum memorant! Digitos iam?
+
+## Busta nivea obambulat sceptri
+
+Est alimenta, aetherium hic. Cum ait, nam linquit pulsus: sed nova pronepos
+exsulta. Timeam spectator armentis ardua **onus** natorum, figuram exanimi
+conpagibus in tangi quae vires. Redito *generumque* mihi noscoque mea ventris
+gestumque. Plus abdita quid **semianimem** solis, illic venire templisque
+Anaphen, actis auctor ipsi erant monstri, percurrere nec.
+
+Bacchaeque quatenus; rumor Ausoniae verbaque te volenti addere, est solvit
+coniciunt. Pervenit longi? Post sole admotumque *pendebat*: solvit nomen traxit
+tuam silvis, patulos in **aperire soror Oresitrophos** eadem vidit; supprimit.
+Vestem at lateque quondam versato culpam vivit coniunx Caeneus utque; nunc cavo
+*geminum*, detrahe, hic! Undis nepotis Haemus quodque.
+
+
