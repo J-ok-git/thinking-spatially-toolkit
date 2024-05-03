@@ -11,42 +11,36 @@ show_sidetoc: true
 
 # Tools
 
-## Spatial Data Management and Analysis
-
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+There are a wide variety of tools available for working with and visualizing spatial data. The selections below are some of the most commonly used tools around.
 
 ### Desktop GIS Software
 
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+Traditional desktop tools for working with spatial data. These tools are designed to allow you to have full control over complex data and analysis workflows.
 
-### GIS Utilities
+- ArcGIS Pro - Commercial desktop GIS from Esri. Power tools, lots of documentation and tutorials to learn from. Part of a larger GIS ecosystem. Works on Windows PCs only.
+- QGIS - Free and open source GIS application. Supported by a large community of enthusiastic developers and users. Good tutorials available, but less well documented compared to Esri tools. Works on Mac, PC, and Linux.
 
-- Scripts
-- Libraries
-- Applications
+### Web mapping
 
-## Cartographic Production
+Web based tools for creating dynamic and interactive web maps. Some analysis capabilities may exist, but these are primarily tools for interactive visualizations and data sharing.
 
-Pes hoc erat [Medea](http://www.praevitiat-inmunesque.net/te), modo ab est
-avidus tamen et terra. Saturnia in urbe, nunc sub, in, quid mater Eurynomes qua
-harenam. Abigoque navit; Haec fundamina clipeoque, tibi conripimus potest est.
-Renarro nocuit. Trunco vidi pennis fieri bracchia mihi.
-
-- ArcGIS for Adobe
-- workshop #1
+- Google My Maps -
+- Google Earth Web -
+- ArcGIS Online -
+- Felt maps -
 
 ## Storytelling
 
-In Iulius et in ripam ut prosit deciderant ad habitus virtutis tumulo canibus.
-Retinebat gladios facibus saucia publica ipsa potero, primumque et totidem
-magnoque quoque addidit stetit. Nexilibus pectore dederat et animum iamque filia
-[amissa formosis infelix](http://www.apolline.org/) virens praeside.
+Web tools for sharing narratives in map form. Media rich templates that combine interactive maps with text, images, video, and links.
 
-- StoryMaps
-- Collection Builder
-- Wax Minicomp
+- ArcGIS Story Maps - Infinite scroll or “scrollytelling” interface for sharing text, images, video, sound, and interactive maps. Part of the ArcGIS Online suite of apps.
+- StoryMaps JS - Open source web map tool that combines an interactive basemap with slides that can contain text images and links to help viewers navigate through a map based narrative.
+
+## Cartographic Production
+
+
+
+
 
 ## Others
 
