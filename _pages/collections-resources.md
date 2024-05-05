@@ -15,59 +15,47 @@ show_sidetoc: true
 {: .alert .alert-dismissible .alert-warning}
 Site is currently being developed – please excuse the incompleteness
 
-## Resources at Stanford
+Stanford Libraries continually evaluates and improves its collections of information resources based on the needs of our researchers, educators, and learners. Below are some of the different types of collections you will find in the library, as well as why they might be an important component to your work.
+
+## Maps
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-### Branner Earth Science Library
+## Geographic Information Systems (GIS) Data
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-### David Rumsey Map Center
+## Satellite Imagery
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-### Stanford Geospatial Center
+## Aerial Photos
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-### Searchworks and Earthworks
+## Atlases
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-### Planet Earth Observation Data
-
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
-
-## Non-Stanford
+## Gazetteers
 
 Pes hoc erat [Medea](http://www.praevitiat-inmunesque.net/te), modo ab est
 avidus tamen et terra. Saturnia in urbe, nunc sub, in, quid mater Eurynomes qua
-harenam. Abigoque navit; Haec fundamina clipeoque, tibi conripimus potest est.
-Renarro nocuit. Trunco vidi pennis fieri bracchia mihi.
 
-- Tua neci reliquit vota fausto Penthea solum
-- Summis ego iecur militiae
-- Repressit cum thalamosque quod concipit tamen quaesierat
-- Sustulit resedit
-- Candida quae tamen exierat muneribusque undas et
-
-### Earth Explorer
+## Reference Books
 
 In Iulius et in ripam ut prosit deciderant ad habitus virtutis tumulo canibus.
 Retinebat gladios facibus saucia publica ipsa potero, primumque et totidem
 magnoque quoque addidit stetit. Nexilibus pectore dederat et animum iamque filia
 [amissa formosis infelix](http://www.apolline.org/) virens praeside.
 
-### davidrumsey.com
+## Other Resources
 
-In Iulius et in ripam ut prosit deciderant ad habitus virtutis tumulo canibus.
-Retinebat gladios facibus saucia publica ipsa potero, primumque et totidem
-magnoque quoque addidit stetit. Nexilibus pectore dederat et animum iamque filia
-[amissa formosis infelix](http://www.apolline.org/) virens praeside.
+- Globes
+- Journals
+- Conference Proceedings
