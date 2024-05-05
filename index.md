@@ -2,13 +2,15 @@
 layout: default
 title: Thinking Spatially Toolkit
 subtitle: Getting started with your map or GIS project at Stanford Libraries
-header_type: hero
 show_sidetoc: true
 ---
 
+{: .alert .alert-dismissible .alert-warning}
+Site is currently being developed – please excuse the incompleteness
+
 This toolkit is meant to provide context and direction for anyone at Stanford working with spatial and cartographic information, and as a launchpad for using maps, geospatial data, and applications to effectively communicate spatial concepts. It is built on the collective widsom of knowledgeable staff at Stanford Libraries.
 
-> Thinking spatially is how we analyze and understand the complexities of the world around us in spatial terms. It can help us gain a deeper understanding of the interconnectedness of the world and the complex relationshiops between human societies and the environment.
+Thinking spatially is how we analyze and understand the complexities of the world around us in spatial terms. It can help us gain a deeper understanding of the interconnectedness of the world and the complex relationshiops between human societies and the environment.
 
 ## Overview
 
@@ -24,4 +26,8 @@ The different pages which make up this site are:
 - **About**: Important information for understanding the context of this toolkit.
 - **Contact and Help**: Last but not least, information about how to contact people and resources who can support you at Stanford.
 
-<button type="button" style="margin: auto" class="btn btn-light"><a href="https://github.com/davidrumseymapcenter/thinking-spatially-toolkit" target="_blank">View in GitHub</a></button>
+## Contribute
+
+This site is openly developed on GitHub, and we welcome Issues and Pull Requests if you would like to suggest improvements.
+
+[View in GitHub](https://github.com/davidrumseymapcenter/thinking-spatially-toolkit){: .btn .btn-primary}
