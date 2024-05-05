@@ -11,6 +11,10 @@ breadcrumb_list:
 show_toc: true
 show_sidetoc: true
 ---
+
+{: .alert .alert-dismissible .alert-warning}
+Site is currently being developed – please excuse the incompleteness
+
 ## Resources at Stanford
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
@@ -67,5 +71,3 @@ In Iulius et in ripam ut prosit deciderant ad habitus virtutis tumulo canibus.
 Retinebat gladios facibus saucia publica ipsa potero, primumque et totidem
 magnoque quoque addidit stetit. Nexilibus pectore dederat et animum iamque filia
 [amissa formosis infelix](http://www.apolline.org/) virens praeside.
-
-

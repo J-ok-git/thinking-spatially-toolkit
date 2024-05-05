@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact and Help
-subtitle: I need to talk with someone 
+subtitle: I need to talk with someone
 permalink: /contact
 include_on_search: true
 show_breadcrumb: true
@@ -12,6 +12,9 @@ show_toc: true
 show_sidetoc: true
 ---
 
+{: .alert .alert-dismissible .alert-warning}
+Site is currently being developed – please excuse the incompleteness
+
 ## Who's Who
 
 List of who we are. Maybe a brief blurb about why people might contact us?
@@ -19,8 +22,11 @@ List of who we are. Maybe a brief blurb about why people might contact us?
 ## Open Hours
 
 Information about branch open hours
+
 ### Branner Earth Science Library
+
 ### David Rumsey Map Center
+
 ### Stanford Geospatial Center
 
 ## Slack

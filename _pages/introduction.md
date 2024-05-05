@@ -8,6 +8,10 @@ show_breadcrumb: true
 show_toc: true
 show_sidetoc: true
 ---
+
+{: .alert .alert-dismissible .alert-warning}
+Site is currently being developed – please excuse the incompleteness
+
 ## Why Consider Spatial Information?
 
 In Iulius et in ripam ut prosit deciderant ad habitus virtutis tumulo canibus.
@@ -43,5 +47,6 @@ magnoque quoque addidit stetit. Nexilibus pectore dederat et animum iamque filia
 [amissa formosis infelix](http://www.apolline.org/) virens praeside.
 
 ## Example Projects
-- [OpenGulf](https://opengulf.github.io/) – OpenGulf is a transdisciplinary research group focusing on historical documentation about the Gulf 
-- 
+
+- [OpenGulf](https://opengulf.github.io/) – OpenGulf is a transdisciplinary research group focusing on historical documentation about the Gulf
+-

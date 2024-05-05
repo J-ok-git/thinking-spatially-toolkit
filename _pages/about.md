@@ -12,6 +12,9 @@ show_toc: true
 show_sidetoc: true
 ---
 
+{: .alert .alert-dismissible .alert-warning}
+Site is currently being developed – please excuse the incompleteness
+
 # About this Toolkit
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
@@ -38,7 +41,8 @@ magnoque quoque addidit stetit. Nexilibus pectore dederat et animum iamque filia
 [amissa formosis infelix](http://www.apolline.org/) virens praeside.
 
 ### APA
-Rankin, W. (2016). *After the map: Cartography, navigation, and the transformation of territory in the twentieth century.* 
+
+Rankin, W. (2016). _After the map: Cartography, navigation, and the transformation of territory in the twentieth century._
 
 ### BibTex
 
@@ -57,7 +61,6 @@ Rankin, W. (2016). *After the map: Cartography, navigation, and the transformati
 }
 
 ```
-
 
 ## Acknowledgements
 
