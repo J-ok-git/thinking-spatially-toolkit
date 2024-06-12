@@ -29,6 +29,14 @@ Web based tools for creating dynamic and interactive web maps. Some analysis cap
 - ArcGIS Online -
 - Felt maps -
 
+### Web apps
+
+Web tools for working with and analyzing complex spatial data. These are tools for working in the cloud on geospatial data.
+
+- Google Earth Engine - A multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities. Runs in the cloud.
+- Planet - 
+- Simply Analytics - 
+
 ## Storytelling
 
 Web tools for sharing narratives in map form. Media rich templates that combine interactive maps with text, images, video, and links.
