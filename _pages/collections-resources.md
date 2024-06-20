@@ -17,27 +17,67 @@ Site is currently being developed – please excuse the incompleteness
 
 Stanford Libraries continually evaluates and improves its collections of information resources based on the needs of our researchers, educators, and learners. Below are some of the different types of collections you will find in the library, as well as why they might be an important component to your work.
 
-## Maps
+## Atlases: Historic and Thematic
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-## Geographic Information Systems (GIS) Data
+## Topographic, City, and Town Maps
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-## Satellite Imagery
+## Railroad Maps
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-## Aerial Photos
+## Geological Maps
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-## Atlases
+## Nautical Charts
+
+Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+
+## FIre Insurance Plans
+
+Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+
+## Air Photos
+
+Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+
+## Bird's-Eye View Maps
+
+Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+
+## GIS Data Sources
+
+Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+
+## GIS Subject Guides
+
+Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+
+## Handbooks and Manuals
+
+Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+
+## Cartographic and GIS Dictionaries
+
+Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+
+## Bibliographies
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
@@ -54,8 +94,9 @@ Retinebat gladios facibus saucia publica ipsa potero, primumque et totidem
 magnoque quoque addidit stetit. Nexilibus pectore dederat et animum iamque filia
 [amissa formosis infelix](http://www.apolline.org/) virens praeside.
 
-## Other Resources
+## Journals and Conference Proceedings
 
-- Globes
-- Journals
-- Conference Proceedings
+Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+
+
