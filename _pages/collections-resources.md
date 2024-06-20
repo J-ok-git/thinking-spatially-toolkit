@@ -42,7 +42,7 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-## FIre Insurance Plans
+## Fire Insurance Plans
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
