@@ -23,7 +23,8 @@ These resources come in three primary forms: physical material, digital map imag
 ## Physical maps, atlases, and globes
 Most of our physical maps are housed in two libraries: the **David Rumsey Map Center** and **Branner Earth Science Library & Map Collections**. The Rumsey Center primarily specializes in rare and historic material that needs special care and must be viewed by appointment in the center. Branner primarily houses more contemporary (20th c. and newer) material which can usually be checked out. Depending on your research topic you may find useful maps in both collections. Library staff in both branches are available to help you locate relevant collection material regardless of where it is physically stored.
 
-[Learn more about finding and viewing physical material](.../blob/main/_pages/resources.md)
+[Learn more about finding and viewing physical material](.../blob/main/_pages/how-do-i.md)
+[Learn more about Stanford Library locations](.../blob/main/_pages/resources.md)
 
 ## Digital images of maps
 Much of the material in our collections has been scanned and the images made available for use in various applications. We do not yet have digital images for everything in the collections but new material is added on an ongoing basis. 
