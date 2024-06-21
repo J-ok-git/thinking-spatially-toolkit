@@ -24,9 +24,9 @@ Most of our physical maps are housed in two libraries: the **David Rumsey Map Ce
 [Learn more about finding and viewing physical material](.../blob/main/_pages/resources.md)
 
 ## Digital images of maps
-Much of the material in our collections has been scanned and the images made available for use in various applications. We do not have digital images for everything in the collections and new material is added on an ongoing basis. 
+Much of the material in our collections has been scanned and the images made available for use in various applications. We do not yet have digital images for everything in the collections but new material is added on an ongoing basis. 
 
-Digital map images can be used in a variety of ways, in web-based interactives, presentations, and storytelling platforms. Digital map images are even more useful when they have been georeferenced, meaning that information about the location of the place represented on the map has been incorporated into the digital file. This enables map-making software to correctly layer the map image over a contemporary base map.
+Digital map images can be used in a variety of ways, including in web-based interactives, presentations, and storytelling platforms. Digital map images are even more useful when they have been georeferenced, meaning that information about the location of the place represented on the map has been incorporated into the digital file. This enables mapmaking software to correctly layer the map image over a contemporary base map.
 
 Library staff can help you locate existing digital map images, get material scanned, georeference map images if necessary, and select and learn to use the right software tools for your project.
 
