@@ -28,11 +28,13 @@ Most of our physical maps are housed in two libraries: the **David Rumsey Map Ce
 [Learn more about Stanford Library locations](resources.md)
 
 ## Digital images of maps
-Digital map images can be used in a variety of ways, including in web-based interactives, presentations, and storytelling platforms. Digital map images are even more useful when they have been georeferenced, meaning that information about the location of the place represented on the map has been incorporated into the digital file. This enables mapmaking software to correctly layer the map image over a contemporary base map.
+Digital map images can be used in a variety of ways and incorporated into web-based interactives, presentations, and storytelling platforms. 
+
+Digital map images are even more useful when they have been georeferenced, meaning that information about the location of the place represented on the map has been incorporated into the digital file. This enables mapmaking software to correctly layer the map image over a contemporary base map and can be combined with other geospatial information. 
 
 Much of the material in our collections has been scanned and the images made available for use in various applications. We do not yet have digital images for everything in the collections but new material is added on an ongoing basis. 
 
-Some collections are digital only, and Stanford does not possess the physical items. These images are acquired through digital philanthropy, where owners of maps allow us to use images of their collection materials.
+Some collections are digital only, and Stanford does not possess the physical items. These images are acquired through *digital philanthropy*, where owners of maps allow us to use images of their collection materials.
 
 Library staff can help you locate existing digital map images, get material scanned, georeference map images if necessary, and select and learn to use the right software tools for your project.
 
@@ -70,8 +72,12 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
 ## Geological Maps
 
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+"Geological maps represent the distribution of rock formations beneath the soil and other materials on the earth's surface. ... Many kinds of geological maps exist, including those emphasizing surficial features, bedrock and sediment, subsurface rocks, and geophysical features such as heat flow and gravity. ...Geological mapping is conducted mostly by government agencies at the national and state levels." [^2]
+[^2]: Dodsworth 123
+
+"Geologic maps often serve as the foundation or starting point for derivative or topical research such as resource studies (groundwater, energy, metallic and industrial minerals) and geohazard portfolios. Today most geologic maps are produced in digital forms such as geographic information system (GIS) databases, downloadable Internet files, and interactive website maps that provide users with many options, increasing availability and usefulness." [^3]
+
+[^3]: Utah Geological Survey (https://geology.utah.gov/map-pub/survey-notes/practical-uses-geo-maps/#:~:text=Geologic%20maps%20often%20serve%20as,options%2C%20increasing%20availability%20and%20usefulness.)
 
 <!--## Nautical Charts
 
