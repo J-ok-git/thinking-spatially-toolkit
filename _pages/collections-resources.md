@@ -17,6 +17,7 @@ Site is currently being developed – please excuse the incompleteness
 
 # Cartographic Resources at Stanford
 Stanford has an exceptional collection of cartographic resources for use in scholarship. 
+
 These resources come in three primary forms: physical material, digital map images, and geospatial datasets.
 
 ## Physical maps, atlases, and globes
