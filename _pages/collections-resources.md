@@ -16,10 +16,10 @@ show_sidetoc: true
 Site is currently being developed – please excuse the incompleteness
 
 # Cartographic Resources at Stanford
-Stanford has an exceptional collection of cartographic resources for use in scholarship. 
+Stanford has an exceptional collection of cartographic resources for use in scholarship. These resources come in three primary forms: physical material, digital map images, and geospatial datasets.
 
-## Physical paper maps
-Most of our physical maps are housed in two libraries: the **David Rumsey Map Center** and **Branner Earth Science Library & Map Collections**. The Rumsey Center primarily specializes in rare and historic material that needs special care and must be viewed by appointment in the center. Branner primarily houses more contemporary (20th c. and newer) material which can be checked out. Depending on your research topic you may find useful maps in both collections. Library staff in both branches are available to help you locate relevant collection material regardless of where it is physically stored.
+## Physical maps, atlases, and globes
+Most of our physical maps are housed in two libraries: the **David Rumsey Map Center** and **Branner Earth Science Library & Map Collections**. The Rumsey Center primarily specializes in rare and historic material that needs special care and must be viewed by appointment in the center. Branner primarily houses more contemporary (20th c. and newer) material which can usually be checked out. Depending on your research topic you may find useful maps in both collections. Library staff in both branches are available to help you locate relevant collection material regardless of where it is physically stored.
 
 [Learn more about finding and viewing physical material](.../blob/main/_pages/resources.md)
 
@@ -28,7 +28,7 @@ Much of the material in our collections has been scanned and the images made ava
 
 Digital map images can be used in a variety of ways, in web-based interactives, presentations, and storytelling platforms. Digital map images are even more useful when they have been georeferenced, meaning that information about the location of the place represented on the map has been incorporated into the digital file. This enables map-making software to correctly layer the map image over a contemporary base map.
 
-Library staff can help you locate digital map images, georeference them as needed, and select and learn to use the right software tools for your project.
+Library staff can help you locate existing digital map images, get material scanned, georeference map images if necessary, and select and learn to use the right software tools for your project.
 
 [Learn more about working with digital map images](.../blob/main/_pages/resources.md)
 
@@ -37,6 +37,7 @@ Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
 [Learn more about working with geospatial data](.../blob/main/_pages/resources.md)
+
 ---
 
 # Types of Cartographic Resources
