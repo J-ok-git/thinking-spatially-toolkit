@@ -15,9 +15,34 @@ show_sidetoc: true
 {: .alert .alert-dismissible .alert-warning}
 Site is currently being developed – please excuse the incompleteness
 
-Stanford Libraries continually evaluates and improves its collections of information resources based on the needs of our researchers, educators, and learners. Below are some of the different types of collections you will find in the library, as well as why they might be an important component to your work.
+# Cartographic Resources at Stanford
+Stanford has an exceptional collection of cartographic resources for use in scholarship. 
 
-*Categories courtesy of Eva Dodsworth's 2018 "A Research Guide to Cartographic Resources"*
+## Physical paper maps
+Most of our physical maps are housed in two libraries: the **David Rumsey Map Center** and **Branner Earth Science Library & Map Collections**. The Rumsey Center primarily specializes in rare and historic material that needs special care and must be viewed by appointment in the center. Branner primarily houses more contemporary (20th c. and newer) material which can be checked out. Depending on your research topic you may find useful maps in both collections. Library staff in both branches are available to help you locate relevant collection material regardless of where it is physically stored.
+
+[Learn more about finding and viewing physical material](.../blob/main/_pages/resources.md)
+
+## Digital images of maps
+Much of the material in our collections has been scanned and the images made available for use in various applications. We do not have digital images for everything in the collections and new material is added on an ongoing basis. 
+
+Digital map images can be used in a variety of ways, in web-based interactives, presentations, and storytelling platforms. Digital map images are even more useful when they have been georeferenced, meaning that information about the location of the place represented on the map has been incorporated into the digital file. This enables map-making software to correctly layer the map image over a contemporary base map.
+
+Library staff can help you locate digital map images, georeference them as needed, and select and learn to use the right software tools for your project.
+
+[Learn more about working with digital map images](.../blob/main/_pages/resources.md)
+
+## Geospatial datasets 
+Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+
+[Learn more about working with geospatial data](.../blob/main/_pages/resources.md)
+---
+
+# Types of Cartographic Resources
+*Stanford Libraries continually evaluates and improves its collections of information resources based on the needs of our researchers, educators, and learners. Below are some of the different types of collections you will find in the library, as well as why they might be an important component to your work.*
+
+*Categories courtesy of Eva Dodsworth's 2018 "A Research Guide to Cartographic Resources"; new sections will be added over time.*
 
 ## Atlases: Historic and Thematic
 
