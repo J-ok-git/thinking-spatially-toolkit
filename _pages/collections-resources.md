@@ -23,26 +23,28 @@ These resources come in three primary forms: physical material, digital map imag
 ## Physical maps, atlases, and globes
 Most of our physical maps are housed in two libraries: the **David Rumsey Map Center** and **Branner Earth Science Library & Map Collections**. The Rumsey Center primarily specializes in rare and historic material that needs special care and must be viewed by appointment in the center. Branner primarily houses more contemporary (20th c. and newer) material which can usually be checked out. Depending on your research topic you may find useful maps in both collections. Library staff in both branches are available to help you locate relevant collection material regardless of where it is physically stored.
 
-[Learn more about finding and viewing physical material](.../blob/main/_pages/how-do-i.md)
+[Learn more about finding and viewing physical material](how-do-i.md)
 
-[Learn more about Stanford Library locations](.../blob/main/_pages/resources.md)
+[Learn more about Stanford Library locations](resources.md)
 
 ## Digital images of maps
+Digital map images can be used in a variety of ways, including in web-based interactives, presentations, and storytelling platforms. Digital map images are even more useful when they have been georeferenced, meaning that information about the location of the place represented on the map has been incorporated into the digital file. This enables mapmaking software to correctly layer the map image over a contemporary base map.
+
 Much of the material in our collections has been scanned and the images made available for use in various applications. We do not yet have digital images for everything in the collections but new material is added on an ongoing basis. 
 
 Some collections are digital only, and Stanford does not possess the physical items. These images are acquired through digital philanthropy, where owners of maps allow us to use images of their collection materials.
 
-Digital map images can be used in a variety of ways, including in web-based interactives, presentations, and storytelling platforms. Digital map images are even more useful when they have been georeferenced, meaning that information about the location of the place represented on the map has been incorporated into the digital file. This enables mapmaking software to correctly layer the map image over a contemporary base map.
-
 Library staff can help you locate existing digital map images, get material scanned, georeference map images if necessary, and select and learn to use the right software tools for your project.
 
-[Learn more about working with digital map images](.../blob/main/_pages/resources.md)
+[Learn more about working with digital map images](how-do-i.md)
 
 ## Geospatial datasets 
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+Accessible through the Earthworks data portal, Stanford's collections include over 100k spatial datasets and cartographic resources, with over 60,000 of those freely available under permissive licensing. Through licensing agreements the **Stanford Geospatial Center** provides access to additional external datasets like Planet.com’s daily image of the Earth and those provided by SimplyAnalytics, a web-based mapping application using thousands of U.S. demographic, business, and marketing variables. Library and Stanford Geospatial Center staff are available to help you find and use relevant datasets, employ related tools like geocoding services, and select and learn to use Geographic Information System (GIS) software to create maps and data visualizations.  
 
-[Learn more about working with geospatial data](.../blob/main/_pages/resources.md)
+[Learn more about finding and working with geospatial data](how-do-i.md)
+
+[Learn more about the Stanford Geospatial Center](https://library.stanford.edu/libraries/stanford-geospatial-center)
+<!-- Alternatively this could link to another section of the Toolkit --> 
 
 ---
 
@@ -93,7 +95,7 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
 A bird's-eye view "provides large-scale detailed drawings of residential and industrial buildings, trees, gardens, horse-drawn carriages, even ships and trains. The details seen in these drawings enable researchers to see whether homes had garages, additions, and trees, as well as to determine the street names at the time of production."[^1] 
 [^1]: Dodsworth 223
 
-[View bird's-eye view maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=bird%27s-eye&search_field=search)
+[View bird's-eye view maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=bird%27s-eye&search_field=search&sort=year-asc)
 
 
 [View bird's-eye view maps at the Library of Congress](https://www.loc.gov/maps/?q=%22bird%27s-eye%22)
