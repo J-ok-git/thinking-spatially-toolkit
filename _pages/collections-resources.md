@@ -28,6 +28,8 @@ Most of our physical maps are housed in two libraries: the **David Rumsey Map Ce
 ## Digital images of maps
 Much of the material in our collections has been scanned and the images made available for use in various applications. We do not yet have digital images for everything in the collections but new material is added on an ongoing basis. 
 
+Some collections are digital only, and Stanford does not possess the physical items. These images are acquired through digital philanthropy, where owners of maps allow us to use images of their collection materials.
+
 Digital map images can be used in a variety of ways, including in web-based interactives, presentations, and storytelling platforms. Digital map images are even more useful when they have been georeferenced, meaning that information about the location of the place represented on the map has been incorporated into the digital file. This enables mapmaking software to correctly layer the map image over a contemporary base map.
 
 Library staff can help you locate existing digital map images, get material scanned, georeference map images if necessary, and select and learn to use the right software tools for your project.
@@ -84,8 +86,15 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
 
 ## Bird's-Eye View Maps
 
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+"A bird's-eye view map is an elevated oblique-angled view of a geographic area from above, often drawn from a photograph. ... They are an artist's representation of what a specific geographic area looked like at a specific point in time and are generally not drawn to scale."
+
+A bird's-eye view "provides large-scale detailed drawings of residential and industrial buildings, trees, gardens, horse-drawn carriages, even ships and trains. The details seen in these drawings enable researchers to see whether homes had garages, additions, and trees, as well as to determine the street names at the time of production."[^1] 
+[^1]: Dodsworth 223
+
+[View bird's-eye view maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=bird%27s-eye&search_field=search)
+
+
+[View bird's-eye view maps at the Library of Congress](https://www.loc.gov/maps/?q=%22bird%27s-eye%22)
 
 ## Geospatial Data Sources
 
@@ -126,5 +135,4 @@ magnoque quoque addidit stetit. Nexilibus pectore dederat et animum iamque filia
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
-
 
