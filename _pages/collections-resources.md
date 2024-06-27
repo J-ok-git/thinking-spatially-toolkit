@@ -77,7 +77,7 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
 "Geologic maps often serve as the foundation or starting point for derivative or topical research such as resource studies (groundwater, energy, metallic and industrial minerals) and geohazard portfolios. Today most geologic maps are produced in digital forms such as geographic information system (GIS) databases, downloadable Internet files, and interactive website maps that provide users with many options, increasing availability and usefulness." [^3]
 
-[^3]: Utah Geological Survey (https://geology.utah.gov/map-pub/survey-notes/practical-uses-geo-maps/#:~:text=Geologic%20maps%20often%20serve%20as,options%2C%20increasing%20availability%20and%20usefulness.)
+[^3]: [Utah Geological Survey](https://geology.utah.gov/map-pub/survey-notes/practical-uses-geo-maps/#:~:text=Geologic%20maps%20often%20serve%20as,options%2C%20increasing%20availability%20and%20usefulness.)
 
 <!--## Nautical Charts
 
