@@ -73,7 +73,7 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 ## Geological Maps
 
 "Geological maps represent the distribution of rock formations beneath the soil and other materials on the earth's surface. ... Many kinds of geological maps exist, including those emphasizing surficial features, bedrock and sediment, subsurface rocks, and geophysical features such as heat flow and gravity. ...Geological mapping is conducted mostly by government agencies at the national and state levels." [^2]
-[^2]: Dodsworth 123
+[^2]: Dodsworth p123
 
 "Geologic maps often serve as the foundation or starting point for derivative or topical research such as resource studies (groundwater, energy, metallic and industrial minerals) and geohazard portfolios. Today most geologic maps are produced in digital forms such as geographic information system (GIS) databases, downloadable Internet files, and interactive website maps that provide users with many options, increasing availability and usefulness." [^3]
 
@@ -99,7 +99,7 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
 "A bird's-eye view map is an elevated oblique-angled view of a geographic area from above, often drawn from a photograph. ... They are an artist's representation of what a specific geographic area looked like at a specific point in time and are generally not drawn to scale."
 
 A bird's-eye view "provides large-scale detailed drawings of residential and industrial buildings, trees, gardens, horse-drawn carriages, even ships and trains. The details seen in these drawings enable researchers to see whether homes had garages, additions, and trees, as well as to determine the street names at the time of production."[^1] 
-[^1]: Dodsworth 223
+[^1]: Dodsworth p223
 
 [View bird's-eye view maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=bird%27s-eye&search_field=search&sort=year-asc)
 
