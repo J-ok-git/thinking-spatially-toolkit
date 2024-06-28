@@ -2,12 +2,12 @@
 layout: default
 title: Collections
 subtitle: Where do I get data for spatial projects?
-permalink: collections
+permalink: /collections
 include_on_search: true
 show_breadcrumb: true
 breadcrumb_list:
   - label: Home
-  - url: /collections-resources
+    url: /
 show_toc: true
 show_sidetoc: true
 ---
