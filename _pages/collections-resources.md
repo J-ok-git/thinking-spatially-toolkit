@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Collections
-subtitle: Where do I get data for spatial projects?
+subtitle: Where do I get material to use in spatial projects?
 permalink: /collections
 include_on_search: true
 show_breadcrumb: true
