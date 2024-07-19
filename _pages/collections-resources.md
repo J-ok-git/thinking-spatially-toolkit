@@ -57,10 +57,21 @@ Accessible through the Earthworks data portal, Stanford's collections include ov
 
 *Categories courtesy of [Eva Dodsworth's 2018 "A Research Guide to Cartographic Resources"](https://searchworks.stanford.edu/view/14278618); new sections will be added over time.*
 
-### Atlases: Historic and Thematic
+### Atlases: Historic, Thematic, and Road
 
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+"An atlas is a collection of information in a graphic format, consisting of text, tables, graphs, and accompanying maps used to describe an area. It provides a comprehensive look at a geographical region, whether the world, a country, a state or province, a county or city, or specific areas of interest such as a watershed or park."
+
+"Although atlases span a wide variety of topics, they are categorized into three main types: general, thematic, and road."
+
+"General atlases contain maps that show physical and political features of individual countries or groups of countries, highlighting topics such as physical geography, economic activities, demographics, and climate."
+
+"Thematic atlases cover a specific subject, such as geology, hydrology, military history, ornithology, climatology, railroads, land ownership, land use, (or) forestry...(and) concentrate on a specific area, which can range from a small community, to a continent."
+
+"Road atlases, which are the most common, offer maps that show roads and highways for defined geographic areas."
+
+Typically "atlases are categorized by scale: continent, nation, state or province, and county."[^1]
+
+[^1]: Dodsworth p53
 
 ### Topographic, City, and Town Maps
 
