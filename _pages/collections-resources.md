@@ -75,8 +75,17 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 ### Topographic, City, and Town Maps
 
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+"Topographic maps are general-purpose maps that are detailed and accurate graphic representations of both human-made and natural features on the earth’s surface, including toponyms, administrative boundaries, and cultural, hydrographical, relief, and vegetation-based information."  [^2]
+
+[^2]: Dodsworth p93
+
+"City and town maps depict urban areas, recording the evolution and growth of cities over time...This map category includes cadastral maps, land ownership plans that show boundaries and ownership of land including owner names, parcel numbers, certificate of title numbers, positions of existing structures, lot numbers, and more."  [^3]
+
+[^3]: Dodsworth p95
+
+"Historical maps that were once hand-drawn by cartographers may vary in accuracy and detail, as the “art” of the map is simply one person’s interpretation of a geographical location. These maps, however, provide insight into the lives of people at a certain time."  [^4]
+
+[^4]: Dodsworth p93
 
 ### Railroad Maps
 
