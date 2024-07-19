@@ -18,7 +18,7 @@ Site is currently being developed – please excuse the incompleteness
 # Cartographic Resources at Stanford
 Stanford has an exceptional collection of cartographic resources for use in scholarship. 
 
-These resources come in three primary formats: physical material, digital map images, and geospatial datasets.
+These resources come in three primary formats: physical material, digital map images, and geospatial datasets and webmaps.
 
 ## Primary formats
 
@@ -42,7 +42,7 @@ Library staff can help you locate existing digital map images, get material scan
 
 [Learn more about working with digital map images](how-do-i.md)
 
-### Geospatial datasets 
+### Geospatial datasets and web maps 
 Accessible through the Earthworks data portal, Stanford's collections include over 100k spatial datasets and cartographic resources, with over 60,000 of those freely available under permissive licensing. Through licensing agreements the **Stanford Geospatial Center** provides access to additional external datasets like Planet.com’s daily image of the Earth and those provided by SimplyAnalytics, a web-based mapping application using thousands of U.S. demographic, business, and marketing variables. Library and Stanford Geospatial Center staff are available to help you find and use relevant datasets, employ related tools like geocoding services, and select and learn to use Geographic Information System (GIS) software to create maps and data visualizations.  
 
 [Learn more about finding and working with geospatial data](how-do-i.md)
@@ -55,7 +55,7 @@ Accessible through the Earthworks data portal, Stanford's collections include ov
 ## Types of Cartographic Resources
 *Stanford Libraries continually evaluates and improves its collections of information resources based on the needs of our researchers, educators, and learners. Below are some of the different types of collections you will find in the library, as well as why they might be an important component to your work.*
 
-*Categories courtesy of Eva Dodsworth's 2018 "A Research Guide to Cartographic Resources"; new sections will be added over time.*
+*Categories courtesy of [Eva Dodsworth's 2018 "A Research Guide to Cartographic Resources"](https://searchworks.stanford.edu/view/14278618); new sections will be added over time.*
 
 ### Atlases: Historic and Thematic
 
