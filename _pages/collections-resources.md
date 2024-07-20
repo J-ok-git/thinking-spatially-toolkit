@@ -83,7 +83,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 + [Topographic maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&search_field=search&q=topographic)
 
-+ [Current and historical United States Geological Survey (USGS) topographic maps](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps):arrow_upper_right:
++ [Current and historical United States Geological Survey (USGS) topographic maps](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps) :arrow_upper_right:
 
 "City and town maps depict urban areas, recording the evolution and growth of cities over time...This map category includes cadastral maps, land ownership plans that show boundaries and ownership of land including owner names, parcel numbers, certificate of title numbers, positions of existing structures, lot numbers, and more."  [^3]
 
@@ -98,7 +98,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 "(Historic) maps that show specific, established routes of travel, whether by road, rail, waterway, or flight line, are a great way to see what the options for past journeys might have been and to narrow down the specifics of possible point to point routes via a particular mode in a certain period of time and place." [^4]
 
-[^4]: The New York Public Library's [Historical Travels: Maps](https://libguides.nypl.org/historicaltravels/maps):arrow_upper_right: research guide  
+[^4]: The New York Public Library's [Historical Travels: Maps](https://libguides.nypl.org/historicaltravels/maps) :arrow_upper_right: research guide  
 
 
 + [AAA Road Map Collection](https://searchworks.stanford.edu/?utf8=%E2%9C%93&q=AAA+of+Northern+California%2C+Nevada+%26+Utah&search_field=search)
@@ -117,7 +117,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 "Geologic maps often serve as the foundation or starting point for derivative or topical research such as resource studies (groundwater, energy, metallic and industrial minerals) and geohazard portfolios. Today most geologic maps are produced in digital forms such as geographic information system (GIS) databases, downloadable Internet files, and interactive website maps that provide users with many options, increasing availability and usefulness." [^6]
 
-[^6]: The Utah Geological Survey's [Practical Uses Of Geologic Maps](https://geology.utah.gov/map-pub/survey-notes/practical-uses-geo-maps/#:~:text=Geologic%20maps%20often%20serve%20as,options%2C%20increasing%20availability%20and%20usefulness.):arrow_upper_right:
+[^6]: The Utah Geological Survey's [Practical Uses Of Geologic Maps](https://geology.utah.gov/map-pub/survey-notes/practical-uses-geo-maps/#:~:text=Geologic%20maps%20often%20serve%20as,options%2C%20increasing%20availability%20and%20usefulness.) :arrow_upper_right:
 
 <!--### Nautical Charts
 
@@ -145,7 +145,7 @@ A bird's-eye view "provides large-scale detailed drawings of residential and ind
 + [Bird's-eye view maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=bird%27s-eye&search_field=search&sort=year-asc)
 
 
-+ [Bird's-eye view maps at the Library of Congress](https://www.loc.gov/maps/?q=%22bird%27s-eye%22):arrow_upper_right:
++ [Bird's-eye view maps at the Library of Congress](https://www.loc.gov/maps/?q=%22bird%27s-eye%22) :arrow_upper_right:
 
 ### Geospatial Data Sources
 
