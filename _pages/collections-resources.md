@@ -71,9 +71,9 @@ Accessible through the Earthworks data portal, Stanford's collections include ov
 
 Typically "atlases are categorized by scale: continent, nation, state or province, and county."[^1]
 
-[^1]: Dodsworth p53
+[^1]: Eva Dodsworth's [A Research Guide to Cartographic Resources](https://searchworks.stanford.edu/view/14278618) p53
 
-+ [View atlases in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=atlas&search_field=search)
++ [Atlases](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=atlas&search_field=search)
 
 ### Topographic, City, and Town Maps
 
@@ -81,34 +81,43 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 [^2]: Dodsworth p93
 
-+ [View topographic maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&search_field=search&q=topographic)
++ [Topographic maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&search_field=search&q=topographic)
 
-+ [Access current and historical topographic maps made by the United States Geological Survey (USGS)](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps)
-
-+ [Use USGS's National Map Viewer to explore base-layer GIS data and create a web map.](https://www.usgs.gov/tools/national-map-viewer)
++ [Current and historical United States Geological Survey (USGS) topographic maps](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps):arrow_upper_right:
 
 "City and town maps depict urban areas, recording the evolution and growth of cities over time...This map category includes cadastral maps, land ownership plans that show boundaries and ownership of land including owner names, parcel numbers, certificate of title numbers, positions of existing structures, lot numbers, and more."  [^3]
 
 [^3]: Dodsworth p95
 
-+ [Cadastral maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=cadastral&search_field=search)
++ [Cadastral maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=cadastral&search_field=search)
+
++ *Find maps of cities in Stanford's collections by searching for the Resource Type "Map" with a city name in the Subject.*
+  <br>[*See this example for San Francisco*](https://searchworks.stanford.edu/?op=must&clause%5B0%5D%5Bfield%5D=search&clause%5B0%5D%5Bquery%5D=&clause%5B1%5D%5Bfield%5D=search_title&clause%5B1%5D%5Bquery%5D=&clause%5B2%5D%5Bfield%5D=search_author&clause%5B2%5D%5Bquery%5D=&clause%5B3%5D%5Bfield%5D=subject_terms&clause%5B3%5D%5Bquery%5D=San+Francisco&clause%5B4%5D%5Bfield%5D=series_search&clause%5B4%5D%5Bquery%5D=&clause%5B5%5D%5Bfield%5D=pub_search&clause%5B5%5D%5Bquery%5D=&clause%5B6%5D%5Bfield%5D=isbn_search&clause%5B6%5D%5Bquery%5D=&range%5Bpub_year_tisim%5D%5Bbegin%5D=&range%5Bpub_year_tisim%5D%5Bend%5D=&f_inclusive%5Bformat_main_ssim%5D%5B%5D=Map&sort=relevance&commit=Search)
+
+### Railroad, Road, and Other Transportation Maps
+
+"(Historic) maps that show specific, established routes of travel, whether by road, rail, waterway, or flight line, are a great way to see what the options for past journeys might have been and to narrow down the specifics of possible point to point routes via a particular mode in a certain period of time and place." [^4]
+
+[^4]: The New York Public Library's [Historical Travels: Maps](https://libguides.nypl.org/historicaltravels/maps):arrow_upper_right: research guide  
 
 
++ [AAA Road Map Collection](https://searchworks.stanford.edu/?utf8=%E2%9C%93&q=AAA+of+Northern+California%2C+Nevada+%26+Utah&search_field=search)
 
-### Railroad Maps
++ [David Smollar Map Collection of road maps from the early 1900s to modern day](https://searchworks.stanford.edu/catalog?q=%22David+Smollar+Map+Collection.%22&search_field=subject_terms)
 
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
++ [Transportation maps](https://searchworks.stanford.edu/?clause%5B0%5D%5Bfield%5D=search&clause%5B0%5D%5Bquery%5D=&clause%5B1%5D%5Bfield%5D=search_title&clause%5B1%5D%5Bquery%5D=&clause%5B2%5D%5Bfield%5D=search_author&clause%5B2%5D%5Bquery%5D=&clause%5B4%5D%5Bfield%5D=series_search&clause%5B4%5D%5Bquery%5D=&clause%5B5%5D%5Bfield%5D=pub_search&clause%5B5%5D%5Bquery%5D=&clause%5B6%5D%5Bfield%5D=isbn_search&clause%5B6%5D%5Bquery%5D=&f_inclusive%5Bformat_main_ssim%5D%5B%5D=Map&op=must&range%5Bpub_year_tisim%5D%5Bbegin%5D=&range%5Bpub_year_tisim%5D%5Bend%5D=&sort=relevance&search_field=subject_terms&q=transportation)
+
+  
 
 ### Geological Maps
 
-"Geological maps represent the distribution of rock formations beneath the soil and other materials on the earth's surface. ... Many kinds of geological maps exist, including those emphasizing surficial features, bedrock and sediment, subsurface rocks, and geophysical features such as heat flow and gravity. ...Geological mapping is conducted mostly by government agencies at the national and state levels." [^2]
+"Geological maps represent the distribution of rock formations beneath the soil and other materials on the earth's surface. ... Many kinds of geological maps exist, including those emphasizing surficial features, bedrock and sediment, subsurface rocks, and geophysical features such as heat flow and gravity. ...Geological mapping is conducted mostly by government agencies at the national and state levels." [^5]
 
-[^2]: Dodsworth p123
+[^5]: Dodsworth p123
 
-"Geologic maps often serve as the foundation or starting point for derivative or topical research such as resource studies (groundwater, energy, metallic and industrial minerals) and geohazard portfolios. Today most geologic maps are produced in digital forms such as geographic information system (GIS) databases, downloadable Internet files, and interactive website maps that provide users with many options, increasing availability and usefulness." [^3]
+"Geologic maps often serve as the foundation or starting point for derivative or topical research such as resource studies (groundwater, energy, metallic and industrial minerals) and geohazard portfolios. Today most geologic maps are produced in digital forms such as geographic information system (GIS) databases, downloadable Internet files, and interactive website maps that provide users with many options, increasing availability and usefulness." [^6]
 
-[^3]: [Utah Geological Survey](https://geology.utah.gov/map-pub/survey-notes/practical-uses-geo-maps/#:~:text=Geologic%20maps%20often%20serve%20as,options%2C%20increasing%20availability%20and%20usefulness.)
+[^6]: The Utah Geological Survey's [Practical Uses Of Geologic Maps](https://geology.utah.gov/map-pub/survey-notes/practical-uses-geo-maps/#:~:text=Geologic%20maps%20often%20serve%20as,options%2C%20increasing%20availability%20and%20usefulness.):arrow_upper_right:
 
 <!--### Nautical Charts
 
@@ -129,14 +138,14 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
 
 "A bird's-eye view map is an elevated oblique-angled view of a geographic area from above, often drawn from a photograph. ... They are an artist's representation of what a specific geographic area looked like at a specific point in time and are generally not drawn to scale."
 
-A bird's-eye view "provides large-scale detailed drawings of residential and industrial buildings, trees, gardens, horse-drawn carriages, even ships and trains. The details seen in these drawings enable researchers to see whether homes had garages, additions, and trees, as well as to determine the street names at the time of production."[^1] 
+A bird's-eye view "provides large-scale detailed drawings of residential and industrial buildings, trees, gardens, horse-drawn carriages, even ships and trains. The details seen in these drawings enable researchers to see whether homes had garages, additions, and trees, as well as to determine the street names at the time of production."[^7] 
 
-[^1]: Dodsworth p223
+[^7]: Dodsworth p223
 
-+ [View bird's-eye view maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=bird%27s-eye&search_field=search&sort=year-asc)
++ [Bird's-eye view maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=bird%27s-eye&search_field=search&sort=year-asc)
 
 
-+ [View bird's-eye view maps at the Library of Congress](https://www.loc.gov/maps/?q=%22bird%27s-eye%22)
++ [Bird's-eye view maps at the Library of Congress](https://www.loc.gov/maps/?q=%22bird%27s-eye%22):arrow_upper_right:
 
 ### Geospatial Data Sources
 
