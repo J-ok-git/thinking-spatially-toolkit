@@ -25,9 +25,9 @@ These resources come in three primary formats: physical material, digital map im
 ### Physical maps, atlases, and globes
 Most of our physical maps are housed in two libraries: the **David Rumsey Map Center** and **Branner Earth Science Library & Map Collections**. The Rumsey Center primarily specializes in rare and historic material that needs special care and must be viewed by appointment in the center. Branner primarily houses more contemporary (20th c. and newer) material which can usually be checked out. Depending on your research topic you may find useful maps in both collections. Library staff in both branches are available to help you locate relevant collection material regardless of where it is physically stored.
 
-[Learn more about finding and viewing physical material](how-do-i.md)
++ [Learn more about finding and viewing physical material](how-do-i.md)
 
-[Learn more about Stanford Library locations](resources.md)
++ [Learn more about Stanford Library locations](resources.md)
 
 ### Digital images of maps
 Digital map images can be used in a variety of ways and incorporated into web-based interactives, presentations, and storytelling platforms. 
@@ -40,14 +40,14 @@ Some collections are digital only, and Stanford does not possess the physical it
 
 Library staff can help you locate existing digital map images, get material scanned, georeference map images if necessary, and select and learn to use the right software tools for your project.
 
-[Learn more about working with digital map images](how-do-i.md)
++ [Learn more about working with digital map images](how-do-i.md)
 
 ### Geospatial datasets and web maps 
 Accessible through the Earthworks data portal, Stanford's collections include over 100k spatial datasets and cartographic resources, with over 60,000 of those freely available under permissive licensing. Through licensing agreements the **Stanford Geospatial Center** provides access to additional external datasets like Planet.com’s daily image of the Earth and those provided by SimplyAnalytics, a web-based mapping application using thousands of U.S. demographic, business, and marketing variables. Library and Stanford Geospatial Center staff are available to help you find and use relevant datasets, employ related tools like geocoding services, and select and learn to use Geographic Information System (GIS) software to create maps and data visualizations.  
 
-[Learn more about finding and working with geospatial data](how-do-i.md)
++ [Learn more about finding and working with geospatial data](how-do-i.md)
 
-[Learn more about the Stanford Geospatial Center](https://library.stanford.edu/libraries/stanford-geospatial-center)
++ [Learn more about the Stanford Geospatial Center](https://library.stanford.edu/libraries/stanford-geospatial-center)
 <!-- Alternatively this could link to another section of the Toolkit --> 
 
 ---
@@ -73,7 +73,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 [^1]: Dodsworth p53
 
-[View atlases in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=atlas&search_field=search)
++ [View atlases in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=atlas&search_field=search)
 
 ### Topographic, City, and Town Maps
 
@@ -81,19 +81,19 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 [^2]: Dodsworth p93
 
++ [View topographic maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&search_field=search&q=topographic)
+
++ [Access current and historical topographic maps made by the United States Geological Survey (USGS)](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps)
+
++ [Use USGS's National Map Viewer to explore base-layer GIS data and create a web map.](https://www.usgs.gov/tools/national-map-viewer)
+
 "City and town maps depict urban areas, recording the evolution and growth of cities over time...This map category includes cadastral maps, land ownership plans that show boundaries and ownership of land including owner names, parcel numbers, certificate of title numbers, positions of existing structures, lot numbers, and more."  [^3]
 
 [^3]: Dodsworth p95
 
-"Historical maps that were once hand-drawn by cartographers may vary in accuracy and detail, as the “art” of the map is simply one person’s interpretation of a geographical location. These maps, however, provide insight into the lives of people at a certain time."  [^4]
++ [Cadastral maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=cadastral&search_field=search)
 
-[^4]: Dodsworth p93
 
-[View topographic maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&search_field=search&q=topographic)
-
-[Access current and historical topographic maps made by the United States Geological Survey (USGS)](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps)
-
-[Use USGS's National Map Viewer to explore base-layer GIS data...and create (a) web map.](https://www.usgs.gov/tools/national-map-viewer)
 
 ### Railroad Maps
 
@@ -133,10 +133,10 @@ A bird's-eye view "provides large-scale detailed drawings of residential and ind
 
 [^1]: Dodsworth p223
 
-[View bird's-eye view maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=bird%27s-eye&search_field=search&sort=year-asc)
++ [View bird's-eye view maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=bird%27s-eye&search_field=search&sort=year-asc)
 
 
-[View bird's-eye view maps at the Library of Congress](https://www.loc.gov/maps/?q=%22bird%27s-eye%22)
++ [View bird's-eye view maps at the Library of Congress](https://www.loc.gov/maps/?q=%22bird%27s-eye%22)
 
 ### Geospatial Data Sources
 
