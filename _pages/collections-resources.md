@@ -73,6 +73,8 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 [^1]: Dodsworth p53
 
+[View atlases in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=atlas&search_field=search)
+
 ### Topographic, City, and Town Maps
 
 "Topographic maps are general-purpose maps that are detailed and accurate graphic representations of both human-made and natural features on the earth’s surface, including toponyms, administrative boundaries, and cultural, hydrographical, relief, and vegetation-based information."  [^2]
@@ -86,6 +88,12 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 "Historical maps that were once hand-drawn by cartographers may vary in accuracy and detail, as the “art” of the map is simply one person’s interpretation of a geographical location. These maps, however, provide insight into the lives of people at a certain time."  [^4]
 
 [^4]: Dodsworth p93
+
+[View topographic maps in Stanford's collections](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&search_field=search&q=topographic)
+
+[Access current and historical topographic maps made by the United States Geological Survey (USGS)](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps)
+
+[Use USGS's National Map Viewer to explore base-layer GIS data...and create (a) web map.](https://www.usgs.gov/tools/national-map-viewer)
 
 ### Railroad Maps
 
