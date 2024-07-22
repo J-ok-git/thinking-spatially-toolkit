@@ -20,10 +20,12 @@ Stanford has an exceptional collection of cartographic resources for use in scho
 
 These resources come in three primary formats: physical material, digital map images, and geospatial datasets and webmaps.
 
+---
+
 ## Primary formats
 
 ### Physical maps, atlases, and globes
-Most of our physical maps are housed in two libraries: the **David Rumsey Map Center** and **Branner Earth Science Library & Map Collections**. The Rumsey Center primarily specializes in rare and historic material that needs special care and must be viewed by appointment in the center. Branner primarily houses more contemporary (20th c. and newer) material which can usually be checked out. Depending on your research topic you may find useful maps in both collections. Library staff in both branches are available to help you locate relevant collection material regardless of where it is physically stored.
+Most of our physical maps are housed in two libraries: the **David Rumsey Map Center** and **Branner Earth Science Library & Map Collections**. The Rumsey Center primarily specializes in rare and historic material that needs special care and must be viewed by appointment in the center. Branner primarily houses more contemporary (20th c. and newer) material which can usually be checked out. Depending on your research topic you may find useful maps in both collections. Library staff in both branches are available to help you locate and work with relevant collection material regardless of where it is physically stored.
 
 + [Learn more about finding and viewing physical material](how-do-i.md)
 
@@ -55,6 +57,8 @@ Accessible through the Earthworks data portal, Stanford's collections include ov
 ## Types of Cartographic Resources
 *Stanford Libraries continually evaluates and improves its collections of information resources based on the needs of our researchers, educators, and learners. Below are some of the different types of collections you will find in the library, as well as why they might be an important component to your work.*
 
+*Links at the end of each section lead to material in Stanford Libraries' collections unless otherwise indicated.*
+
 *Categories courtesy of [Eva Dodsworth's 2018 "A Research Guide to Cartographic Resources"](https://searchworks.stanford.edu/view/14278618); new sections will be added over time.*
 
 ### Atlases: Historic, Thematic, and Road
@@ -83,7 +87,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 + [Topographic maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&search_field=search&q=topographic)
 
-+ [Current and historical United States Geological Survey (USGS) topographic maps](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps) :arrow_upper_right:
++ [Current and historical United States Geological Survey (USGS) topographic maps](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps) :arrow_upper_right: *(external link)*
 
 "City and town maps depict urban areas, recording the evolution and growth of cities over time...This map category includes cadastral maps, land ownership plans that show boundaries and ownership of land including owner names, parcel numbers, certificate of title numbers, positions of existing structures, lot numbers, and more."  [^3]
 
@@ -91,14 +95,13 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 + [Cadastral maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=cadastral&search_field=search)
 
-+ *Find maps of cities in Stanford's collections by searching for the Resource Type "Map" with a city name in the Subject.*
-  <br>[*See this example for San Francisco*](https://searchworks.stanford.edu/?op=must&clause%5B0%5D%5Bfield%5D=search&clause%5B0%5D%5Bquery%5D=&clause%5B1%5D%5Bfield%5D=search_title&clause%5B1%5D%5Bquery%5D=&clause%5B2%5D%5Bfield%5D=search_author&clause%5B2%5D%5Bquery%5D=&clause%5B3%5D%5Bfield%5D=subject_terms&clause%5B3%5D%5Bquery%5D=San+Francisco&clause%5B4%5D%5Bfield%5D=series_search&clause%5B4%5D%5Bquery%5D=&clause%5B5%5D%5Bfield%5D=pub_search&clause%5B5%5D%5Bquery%5D=&clause%5B6%5D%5Bfield%5D=isbn_search&clause%5B6%5D%5Bquery%5D=&range%5Bpub_year_tisim%5D%5Bbegin%5D=&range%5Bpub_year_tisim%5D%5Bend%5D=&f_inclusive%5Bformat_main_ssim%5D%5B%5D=Map&sort=relevance&commit=Search)
++ *Find maps of cities in Stanford's collections by searching for the Resource Type "Map" with a city name in the Subject.* [*See this example for San Francisco*](https://searchworks.stanford.edu/?op=must&clause%5B0%5D%5Bfield%5D=search&clause%5B0%5D%5Bquery%5D=&clause%5B1%5D%5Bfield%5D=search_title&clause%5B1%5D%5Bquery%5D=&clause%5B2%5D%5Bfield%5D=search_author&clause%5B2%5D%5Bquery%5D=&clause%5B3%5D%5Bfield%5D=subject_terms&clause%5B3%5D%5Bquery%5D=San+Francisco&clause%5B4%5D%5Bfield%5D=series_search&clause%5B4%5D%5Bquery%5D=&clause%5B5%5D%5Bfield%5D=pub_search&clause%5B5%5D%5Bquery%5D=&clause%5B6%5D%5Bfield%5D=isbn_search&clause%5B6%5D%5Bquery%5D=&range%5Bpub_year_tisim%5D%5Bbegin%5D=&range%5Bpub_year_tisim%5D%5Bend%5D=&f_inclusive%5Bformat_main_ssim%5D%5B%5D=Map&sort=relevance&commit=Search)
 
 ### Railroad, Road, and Other Transportation Maps
 
 "(Historic) maps that show specific, established routes of travel, whether by road, rail, waterway, or flight line, are a great way to see what the options for past journeys might have been and to narrow down the specifics of possible point to point routes via a particular mode in a certain period of time and place." [^4]
 
-[^4]: The New York Public Library's [Historical Travels: Maps](https://libguides.nypl.org/historicaltravels/maps) :arrow_upper_right: research guide  
+[^4]: The New York Public Library's [Historical Travels: Maps](https://libguides.nypl.org/historicaltravels/maps) :arrow_upper_right: research guide *(external link)* 
 
 
 + [AAA Road Map Collection](https://searchworks.stanford.edu/?utf8=%E2%9C%93&q=AAA+of+Northern+California%2C+Nevada+%26+Utah&search_field=search)
@@ -107,7 +110,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 + [Transportation maps](https://searchworks.stanford.edu/?clause%5B0%5D%5Bfield%5D=search&clause%5B0%5D%5Bquery%5D=&clause%5B1%5D%5Bfield%5D=search_title&clause%5B1%5D%5Bquery%5D=&clause%5B2%5D%5Bfield%5D=search_author&clause%5B2%5D%5Bquery%5D=&clause%5B4%5D%5Bfield%5D=series_search&clause%5B4%5D%5Bquery%5D=&clause%5B5%5D%5Bfield%5D=pub_search&clause%5B5%5D%5Bquery%5D=&clause%5B6%5D%5Bfield%5D=isbn_search&clause%5B6%5D%5Bquery%5D=&f_inclusive%5Bformat_main_ssim%5D%5B%5D=Map&op=must&range%5Bpub_year_tisim%5D%5Bbegin%5D=&range%5Bpub_year_tisim%5D%5Bend%5D=&sort=relevance&search_field=subject_terms&q=transportation)
 
-  
++ The New York Public Library's [Historical Travels: Maps](https://libguides.nypl.org/historicaltravels/maps) research guide *(external link)* 
 
 ### Geological Maps
 
@@ -117,7 +120,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 "Geologic maps often serve as the foundation or starting point for derivative or topical research such as resource studies (groundwater, energy, metallic and industrial minerals) and geohazard portfolios. Today most geologic maps are produced in digital forms such as geographic information system (GIS) databases, downloadable Internet files, and interactive website maps that provide users with many options, increasing availability and usefulness." [^6]
 
-[^6]: The Utah Geological Survey's [Practical Uses Of Geologic Maps](https://geology.utah.gov/map-pub/survey-notes/practical-uses-geo-maps/#:~:text=Geologic%20maps%20often%20serve%20as,options%2C%20increasing%20availability%20and%20usefulness.) :arrow_upper_right:
+[^6]: The Utah Geological Survey's [Practical Uses Of Geologic Maps](https://geology.utah.gov/map-pub/survey-notes/practical-uses-geo-maps/#:~:text=Geologic%20maps%20often%20serve%20as,options%2C%20increasing%20availability%20and%20usefulness.) :arrow_upper_right: *(external link)*
 
 <!--### Nautical Charts
 
@@ -145,7 +148,7 @@ A bird's-eye view "provides large-scale detailed drawings of residential and ind
 + [Bird's-eye view maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=bird%27s-eye&search_field=search&sort=year-asc)
 
 
-+ [Bird's-eye view maps at the Library of Congress](https://www.loc.gov/maps/?q=%22bird%27s-eye%22) :arrow_upper_right:
++ [Bird's-eye view maps at the Library of Congress](https://www.loc.gov/maps/?q=%22bird%27s-eye%22) :arrow_upper_right: *(external link)*
 
 ### Geospatial Data Sources
 
