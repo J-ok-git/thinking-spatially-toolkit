@@ -162,9 +162,7 @@ A bird's-eye view "provides large-scale detailed drawings of residential and ind
 
 [^8]: [Geographic Information; Organization, Access, and Use](https://searchworks.stanford.edu/view/11885843), Bishop and Grubesic 2016
 
-It includes the kinds of information visible on paper maps but made available as numeric or text values with associated locations and attributes. 
-
-Geospatial data are stored in a variety of formats but are typically arranged as tabular data or in database files. 
+Datasets include the kinds of information seen on paper maps but made available as numeric or text values associated with locations and attributes, and arranged as tabular data or grouped in database files.  
 
 + [Earthworks](https://earthworks.stanford.edu/), Stanford Libraries' spatial data catalog
 
