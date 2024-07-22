@@ -61,23 +61,21 @@ Accessible through the Earthworks data portal, Stanford's collections include ov
 
 *Categories courtesy of [Eva Dodsworth's 2018 "A Research Guide to Cartographic Resources"](https://searchworks.stanford.edu/view/14278618); new sections will be added over time.*
 
-### Atlases: Historic, Thematic, and Road
+### Atlases
 
 "An atlas is a collection of information in a graphic format, consisting of text, tables, graphs, and accompanying maps used to describe an area. It provides a comprehensive look at a geographical region, whether the world, a country, a state or province, a county or city, or specific areas of interest such as a watershed or park."
 
-"Although atlases span a wide variety of topics, they are categorized into three main types: general, thematic, and road."
-
-"General atlases contain maps that show physical and political features of individual countries or groups of countries, highlighting topics such as physical geography, economic activities, demographics, and climate."
+"General atlases...show physical and political features of individual countries or groups of countries, highlighting topics such as physical geography, economic activities, demographics, and climate."
 
 "Thematic atlases cover a specific subject, such as geology, hydrology, military history, ornithology, climatology, railroads, land ownership, land use, (or) forestry...(and) concentrate on a specific area, which can range from a small community, to a continent."
-
-"Road atlases, which are the most common, offer maps that show roads and highways for defined geographic areas."
 
 Typically "atlases are categorized by scale: continent, nation, state or province, and county."[^1]
 
 [^1]: Eva Dodsworth's [A Research Guide to Cartographic Resources](https://searchworks.stanford.edu/view/14278618) p53
 
-+ [Atlases](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=atlas&search_field=search)
++ [Atlases in Stanford Libraries](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=atlas&search_field=search)
+
++ [Atlases on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_type%3Datlas%20AND%20type%3Dtitle%20page%20LIMIT%3ARUMSEY%7E8%7E1&sort=pub_list_no_initialsort%2Cpub_list_no&os=0&pgs=250&res=1) *(external link)*
 
 ### Topographic, City, and Town Maps
 
@@ -85,7 +83,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 [^2]: Dodsworth p93
 
-+ [Topographic maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&search_field=search&q=topographic)
++ [Topographic maps in Stanford Libraries](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&search_field=search&q=topographic)
 
 + [Current and historical United States Geological Survey (USGS) topographic maps](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps) :arrow_upper_right: *(external link)*
 
@@ -93,7 +91,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 [^3]: Dodsworth p95
 
-+ [Cadastral maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=cadastral&search_field=search)
++ [Cadastral maps in Stanford Libraries](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=cadastral&search_field=search)
 
 + *Find maps of cities in Stanford's collections by searching for the Resource Type "Map" with a city name in the Subject.* [*See this example for San Francisco*](https://searchworks.stanford.edu/?op=must&clause%5B0%5D%5Bfield%5D=search&clause%5B0%5D%5Bquery%5D=&clause%5B1%5D%5Bfield%5D=search_title&clause%5B1%5D%5Bquery%5D=&clause%5B2%5D%5Bfield%5D=search_author&clause%5B2%5D%5Bquery%5D=&clause%5B3%5D%5Bfield%5D=subject_terms&clause%5B3%5D%5Bquery%5D=San+Francisco&clause%5B4%5D%5Bfield%5D=series_search&clause%5B4%5D%5Bquery%5D=&clause%5B5%5D%5Bfield%5D=pub_search&clause%5B5%5D%5Bquery%5D=&clause%5B6%5D%5Bfield%5D=isbn_search&clause%5B6%5D%5Bquery%5D=&range%5Bpub_year_tisim%5D%5Bbegin%5D=&range%5Bpub_year_tisim%5D%5Bend%5D=&f_inclusive%5Bformat_main_ssim%5D%5B%5D=Map&sort=relevance&commit=Search)
 
@@ -104,23 +102,31 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 [^4]: The New York Public Library's [Historical Travels: Maps](https://libguides.nypl.org/historicaltravels/maps) :arrow_upper_right: research guide *(external link)* 
 
 
-+ [AAA Road Map Collection](https://searchworks.stanford.edu/?utf8=%E2%9C%93&q=AAA+of+Northern+California%2C+Nevada+%26+Utah&search_field=search)
++ [Stanford's AAA Road Map Collection](https://searchworks.stanford.edu/?utf8=%E2%9C%93&q=AAA+of+Northern+California%2C+Nevada+%26+Utah&search_field=search)
 
-+ [David Smollar Map Collection of road maps from the early 1900s to modern day](https://searchworks.stanford.edu/catalog?q=%22David+Smollar+Map+Collection.%22&search_field=subject_terms)
++ [Stanford's David Smollar Map Collection, containing road maps from the early 1900s to modern day](https://searchworks.stanford.edu/catalog?q=%22David+Smollar+Map+Collection.%22&search_field=subject_terms)
 
-+ [Transportation maps](https://searchworks.stanford.edu/?clause%5B0%5D%5Bfield%5D=search&clause%5B0%5D%5Bquery%5D=&clause%5B1%5D%5Bfield%5D=search_title&clause%5B1%5D%5Bquery%5D=&clause%5B2%5D%5Bfield%5D=search_author&clause%5B2%5D%5Bquery%5D=&clause%5B4%5D%5Bfield%5D=series_search&clause%5B4%5D%5Bquery%5D=&clause%5B5%5D%5Bfield%5D=pub_search&clause%5B5%5D%5Bquery%5D=&clause%5B6%5D%5Bfield%5D=isbn_search&clause%5B6%5D%5Bquery%5D=&f_inclusive%5Bformat_main_ssim%5D%5B%5D=Map&op=must&range%5Bpub_year_tisim%5D%5Bbegin%5D=&range%5Bpub_year_tisim%5D%5Bend%5D=&sort=relevance&search_field=subject_terms&q=transportation)
++ [Transportation maps in Stanford Libraries](https://searchworks.stanford.edu/?clause%5B0%5D%5Bfield%5D=search&clause%5B0%5D%5Bquery%5D=&clause%5B1%5D%5Bfield%5D=search_title&clause%5B1%5D%5Bquery%5D=&clause%5B2%5D%5Bfield%5D=search_author&clause%5B2%5D%5Bquery%5D=&clause%5B4%5D%5Bfield%5D=series_search&clause%5B4%5D%5Bquery%5D=&clause%5B5%5D%5Bfield%5D=pub_search&clause%5B5%5D%5Bquery%5D=&clause%5B6%5D%5Bfield%5D=isbn_search&clause%5B6%5D%5Bquery%5D=&f_inclusive%5Bformat_main_ssim%5D%5B%5D=Map&op=must&range%5Bpub_year_tisim%5D%5Bbegin%5D=&range%5Bpub_year_tisim%5D%5Bend%5D=&sort=relevance&search_field=subject_terms&q=transportation)
 
 + The New York Public Library's [Historical Travels: Maps](https://libguides.nypl.org/historicaltravels/maps) research guide *(external link)* 
 
 ### Geological Maps
 
-"Geological maps represent the distribution of rock formations beneath the soil and other materials on the earth's surface. ... Many kinds of geological maps exist, including those emphasizing surficial features, bedrock and sediment, subsurface rocks, and geophysical features such as heat flow and gravity. ...Geological mapping is conducted mostly by government agencies at the national and state levels." [^5]
+"Geological maps represent the distribution of rock formations beneath the soil and other materials on the earth's surface. ... Many kinds of geological maps exist, including those emphasizing surficial features, bedrock and sediment, subsurface rocks, and geophysical features such as heat flow and gravity...Geological mapping is conducted mostly by government agencies at the national *(e.g. USGS)* and state levels." [^5]
 
 [^5]: Dodsworth p123
 
 "Geologic maps often serve as the foundation or starting point for derivative or topical research such as resource studies (groundwater, energy, metallic and industrial minerals) and geohazard portfolios. Today most geologic maps are produced in digital forms such as geographic information system (GIS) databases, downloadable Internet files, and interactive website maps that provide users with many options, increasing availability and usefulness." [^6]
 
 [^6]: The Utah Geological Survey's [Practical Uses Of Geologic Maps](https://geology.utah.gov/map-pub/survey-notes/practical-uses-geo-maps/#:~:text=Geologic%20maps%20often%20serve%20as,options%2C%20increasing%20availability%20and%20usefulness.) :arrow_upper_right: *(external link)*
+
++ [USGS Geologic Quadrangle Maps of the United States](https://searchworks.stanford.edu/?f%5Bauthor_other_facet%5D%5B%5D=Geological+Survey+%28U.S.%29&f%5Bformat_main_ssim%5D%5B%5D=Map&q=geologic+quadrangle+maps+of+the+united+states&search_field=search)
+
++ [Stanford Geological Survey historic map collection](https://exhibits.stanford.edu/sgs-collection)
+
++ [Dibblee Geology Maps of California](https://searchworks.stanford.edu/view/zy568zf7838)
+
++ [USGS National Geologic Map Database (NGMDB) MapView portal](https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4) *(external link)*
 
 <!--### Nautical Charts
 
@@ -152,8 +158,19 @@ A bird's-eye view "provides large-scale detailed drawings of residential and ind
 
 ### Geospatial Data Sources
 
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+"Geographic information generally consists of facts, data and/or exidence pertaining to events, activities and things located on (or near) the surface of the earth." [^8]
+
+[^8]: [Geographic Information; Organization, Access, and Use](https://searchworks.stanford.edu/view/11885843), Bishop and Grubesic 2016
+
+It includes the kinds of information visible on paper maps but made available as numeric or text values with associated locations and attributes. 
+
+Geospatial data are stored in a variety of formats but are typically arranged as tabular data or in database files. 
+
++ [Earthworks](https://earthworks.stanford.edu/), Stanford Libraries' spatial data catalog
+
++ Stanford Geospatial Center (SGC) [Guide to Resources for Education and Research](https://guides.library.stanford.edu/sgc)
+
++ [United States Census Bureau data] (https://data.census.gov/) *(external link)*
 
 <!--### GIS Subject Guides
 
