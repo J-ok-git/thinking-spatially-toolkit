@@ -234,6 +234,13 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
 
 ## Other Significant Collections
 
+### David Rumsey Collection
+David Rumsey began collecting maps in the mid 1980s and continues to expand his collection, now entrusted to Stanford Libraries, to this day. The collection spans the 16th to 21st centuries and includes atlases, wall maps, globes, school geographies, pocket maps, books of exploration, aerial photographs, maritime charts, artists' works, and a variety of other cartographic materials. The physical material is held in the David Rumsey Map Center in Green Library. 
+
++ [David Rumsey Collection at Stanford University Libraries](https://searchworks.stanford.edu/view/xh235dd9059)
+
++ Spotlight Exhibit: [Universe of Maps - Opening the David Rumsey Map Center](https://exhibits.stanford.edu/david-rumsey-map-collection)
+
 ### Conrad Collection on Dutch Waterways
 The Conrad Collection on Dutch Waterways is the personal collection of Jan Frederik Willem Conrad, a 19th century Dutch engineer and former chief inspector of Rijkswaterstaat. Included in this collection are cartographic and technical materials that document the construction of the Dutch waterway and coastal infrastructure during the 17th to 20th centuries.
 
