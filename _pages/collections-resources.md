@@ -130,30 +130,32 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 + [USGS National Geologic Map Database (NGMDB) MapView portal](https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4) *(external link)*
 
-### Nautical Charts
+<!-- ### Nautical Charts -->
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-### Fire Insurance Plans
+### Sanborn Maps and Other Fire Insurance Plans
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-+[Fire insurance maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=%22Fire+insurance%22&search_field=subject_terms)
++ [Fire insurance maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=%22Fire+insurance%22&search_field=subject_terms)
 
-+[Digital Sanborn Maps](https://searchworks.stanford.edu/view/7655032) *Searchworks catalog entry*
++ [Digital Sanborn Maps](https://searchworks.stanford.edu/view/7655032) *Searchworks catalog entry*
 
 ### Aerial Photos
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-+[Harrison Ryker's 1938 Aerial Photos of San Francisco](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3d%225852.000%22&qvq=sort:pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no;lc:RUMSEY~8~1&mi=0) on DavidRumsey.com *(external link)*
++ [Harrison Ryker's 1938 Aerial Photos of San Francisco](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3d%225852.000%22&qvq=sort:pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no;lc:RUMSEY~8~1&mi=0) on DavidRumsey.com *(external link)*
 
-+[CAL Index of Aerial Photography](https://searchworks.stanford.edu/view/478992)
++ UCSB's [FrameFinder](https://mil.library.ucsb.edu/ap_indexes/FrameFinder/), covering much of California and [instructions on use](https://www.library.ucsb.edu/geospatial/finding-airphotos) *(external links)*
 
-+[Colorado School of Mines Aerial Photographs tutorial](https://mines.libwizard.com/f/airphotos_2/p/2) *(external link)*
++ [CAL Index of Aerial Photography](https://searchworks.stanford.edu/view/478992)
+
++ [Colorado School of Mines Aerial Photographs tutorial](https://mines.libwizard.com/f/airphotos_2/p/2) *(external link)*
 
 
 ### Bird's-Eye View Maps
@@ -209,7 +211,7 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
 
 Gazetteers provide exact latitude and longitude for cities, towns, and geographic places, along with population statistics where relevant. 
 
-+[Guide to Gazetteers](https://guides.library.stanford.edu/mapcollections/mapgazetteers)
++ [Guide to Gazetteers](https://guides.library.stanford.edu/mapcollections/mapgazetteers)
 
 <!--### Reference Books
 
