@@ -85,7 +85,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 + [Topographic maps in Stanford Libraries](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&search_field=search&q=topographic)
 
-+ [Current and historical United States Geological Survey (USGS) topographic maps](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps) :arrow_upper_right: *(external link)*
++ [Current and historical United States Geological Survey (USGS) topographic maps](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps) *(external link)*
 
 "City and town maps depict urban areas, recording the evolution and growth of cities over time...This map category includes cadastral maps, land ownership plans that show boundaries and ownership of land including owner names, parcel numbers, certificate of title numbers, positions of existing structures, lot numbers, and more."  [^3]
 
@@ -99,7 +99,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 "(Historic) maps that show specific, established routes of travel, whether by road, rail, waterway, or flight line, are a great way to see what the options for past journeys might have been and to narrow down the specifics of possible point to point routes via a particular mode in a certain period of time and place." [^4]
 
-[^4]: The New York Public Library's [Historical Travels: Maps](https://libguides.nypl.org/historicaltravels/maps) :arrow_upper_right: research guide *(external link)* 
+[^4]: The New York Public Library's [Historical Travels: Maps](https://libguides.nypl.org/historicaltravels/maps) research guide *(external link)* 
 
 
 + [Stanford's AAA Road Map Collection](https://searchworks.stanford.edu/?utf8=%E2%9C%93&q=AAA+of+Northern+California%2C+Nevada+%26+Utah&search_field=search)
@@ -118,7 +118,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 "Geologic maps often serve as the foundation or starting point for derivative or topical research such as resource studies (groundwater, energy, metallic and industrial minerals) and geohazard portfolios. Today most geologic maps are produced in digital forms such as geographic information system (GIS) databases, downloadable Internet files, and interactive website maps that provide users with many options, increasing availability and usefulness." [^6]
 
-[^6]: The Utah Geological Survey's [Practical Uses Of Geologic Maps](https://geology.utah.gov/map-pub/survey-notes/practical-uses-geo-maps/#:~:text=Geologic%20maps%20often%20serve%20as,options%2C%20increasing%20availability%20and%20usefulness.) :arrow_upper_right: *(external link)*
+[^6]: The Utah Geological Survey's [Practical Uses Of Geologic Maps](https://geology.utah.gov/map-pub/survey-notes/practical-uses-geo-maps/#:~:text=Geologic%20maps%20often%20serve%20as,options%2C%20increasing%20availability%20and%20usefulness.) *(external link)*
 
 + [USGS Geologic Quadrangle Maps of the United States](https://searchworks.stanford.edu/?f%5Bauthor_other_facet%5D%5B%5D=Geological+Survey+%28U.S.%29&f%5Bformat_main_ssim%5D%5B%5D=Map&q=geologic+quadrangle+maps+of+the+united+states&search_field=search)
 
@@ -168,7 +168,7 @@ Datasets include the kinds of information seen on paper maps but made available 
 
 + Stanford Geospatial Center (SGC) [Guide to Resources for Education and Research](https://guides.library.stanford.edu/sgc)
 
-+ [United States Census Bureau data] (https://data.census.gov/) *(external link)*
++ [United States Census Bureau data](https://data.census.gov/) *(external link)*
 
 <!--### GIS Subject Guides
 
