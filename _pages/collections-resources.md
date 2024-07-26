@@ -126,22 +126,35 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 + [Dibblee Geology Maps of California](https://searchworks.stanford.edu/view/zy568zf7838)
 
++ [USGS National geologic map database](https://searchworks.stanford.edu/view/3430217) *Searchworks catalog record*
+
 + [USGS National Geologic Map Database (NGMDB) MapView portal](https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4) *(external link)*
 
-<!--### Nautical Charts
+### Nautical Charts
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
-<!--### Fire Insurance Plans
-
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
-
-<!--### Air Photos
+### Fire Insurance Plans
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+
++[Fire insurance maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=%22Fire+insurance%22&search_field=subject_terms)
+
++[Digital Sanborn Maps](https://searchworks.stanford.edu/view/7655032) *Searchworks catalog entry*
+
+### Aerial Photos
+
+Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
+ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+
++[Harrison Ryker's 1938 Aerial Photos of San Francisco](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3d%225852.000%22&qvq=sort:pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no;lc:RUMSEY~8~1&mi=0) on DavidRumsey.com *(external link)*
+
++[CAL Index of Aerial Photography](https://searchworks.stanford.edu/view/478992)
+
++[Colorado School of Mines Aerial Photographs tutorial](https://mines.libwizard.com/f/airphotos_2/p/2) *(external link)*
+
 
 ### Bird's-Eye View Maps
 
@@ -154,7 +167,7 @@ A bird's-eye view "provides large-scale detailed drawings of residential and ind
 + [Bird's-eye view maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=bird%27s-eye&search_field=search&sort=year-asc)
 
 
-+ [Bird's-eye view maps at the Library of Congress](https://www.loc.gov/maps/?q=%22bird%27s-eye%22) :arrow_upper_right: *(external link)*
++ [Bird's-eye view maps at the Library of Congress](https://www.loc.gov/maps/?q=%22bird%27s-eye%22) *(external link)*
 
 ### Geospatial Data Sources
 
@@ -169,6 +182,8 @@ Datasets include the kinds of information seen on paper maps but made available 
 + Stanford Geospatial Center (SGC) [Guide to Resources for Education and Research](https://guides.library.stanford.edu/sgc)
 
 + [United States Census Bureau data](https://data.census.gov/) *(external link)*
+
++ [USGS EarthExplorer](https://earthexplorer.usgs.gov/) *(external link)*
 
 <!--### GIS Subject Guides
 
@@ -190,9 +205,11 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
 
-<!--### Gazetteers
+### Gazetteers
 
-Pes hoc erat modo ab est avidus tamen et terra. Saturnia in urbe, nunc sub, in, quid mater Eurynomes qua-->
+Gazetteers provide exact latitude and longitude for cities, towns, and geographic places, along with population statistics where relevant. 
+
++[Guide to Gazetteers](https://guides.library.stanford.edu/mapcollections/mapgazetteers)
 
 <!--### Reference Books
 
