@@ -131,9 +131,6 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 <!-- ### Nautical Charts -->
 
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
-
 ### Sanborn Maps and Other Fire Insurance Plans
 
 Sanborn Fire Insurance maps are a "uniform series of large-scale maps, dating from 1867 to the present and depicting the commercial, industrial, and residential sections of some twelve thousand cities and towns in the United States, Canada, and Mexico. The maps were designed to assist fire insurance agents in determining the degree of hazard associated with a particular property and therefore show the size, shape, and construction of dwellings, commercial buildings, and factories as well as fire walls, locations of windows and doors, sprinkler systems, and types of roofs. The maps also indicate widths and names of streets, property boundaries, building use, and house and block numbers." [^7]
