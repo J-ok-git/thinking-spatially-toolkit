@@ -226,6 +226,11 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
 
 ## Significant Collections
 
+### Conrad Collection on Dutch Waterways
+The Conrad Collection on Dutch Waterways is the personal collection of Jan Frederik Willem Conrad, a 19th century Dutch engineer and former chief inspector of Rijkswaterstaat. Included in this collection are cartographic and technical materials that document the construction of the Dutch waterway and coastal infrastructure during the 17th to 20th centuries.
+
++ [Conrad Collection on Dutch Waterways](https://searchworks.stanford.edu/view/vt578hf4454)
+  
 ### Gaihozu: Japanese Military Maps
 Japanese military and imperial maps, referred to as gaihozu, or "maps of outer lands" were produced starting in the early Meiji (1868-1912) era and the end of World War II by the Land Survey Department of the General Staff Headquarters, the former Japanese Army.  The first charge was to map specific territories beyond Japan's borders.  Over time the mapping efforts grew to including "mapping of interimperial boundaries, cadastral surveys of the colonies, and detailed drawings of strategic cities and fortifications."  Geographically the Stanford maps cover a broad area including Japan, China, Mongolia, North Korea, South Korea, the Philippines, and beyond. 
 
@@ -243,7 +248,14 @@ Between 1500 and 1750, European cartographers frequently represented California 
 ### Maps of Africa
 Stanford’s Maps of Africa Collection became a major research resource in August of 2001 with the acquisition of the Oscar I. Norwich Collection of Maps of Africa and its islands, 1486 – ca. 1900. This acquisition added 316 maps to Stanford’s existing holdings of Maps of Africa. The collection nearly doubled in size in 2010 with the purchase of 294 maps from Caroline Batchelor. In 2011 a small set of maps was acquired from Rodney Shirley. In addition, Stanford currently has digital maps from the Barry Lawrence Ruderman Collection, the David Rumsey Map Collection, and the University of Cape Town Collections.
 
-+ [Maps of Africa: An Online Exhibit](https://exhibits.stanford.edu/maps-of-africa)
++ Spotlight Exhibit [Maps of Africa: An Online Exhibit](https://exhibits.stanford.edu/maps-of-africa)
+
+### Antarctic Radar Film Digitization Project
+This work is the culmination of an international effort to recover, scan, and publicly release a collection of historic airborne radar observations of the Antarctic Ice Sheet acquired nearly a half century ago. For decades these data were stored on 35 mm optical film in the museum archives of the Scott Polar Research Institute at Cambridge University. By using a high-resolution film scanner built for recovering old Hollywood movies, this project is providing the scientific community with public access to the full resolution version of the earliest continental-wide survey of the Antarctic Ice Sheet and its subsurface. This effort extends the available ice-sheet-scale observations of Antarctica from the early 2000s (about 15 years ago) to the 1970s (over 40 years ago), providing a critical window into the coupled glaciological, geological, biological, and climatological processes of the Antarctic system over the multi-decadal timescales needed for generating actionable climate projections in assessments like the IPCC.
+
++ Spotlight Exhibit [Antarctic Radar Film Digitization Project](https://exhibits.stanford.edu/radarfilm)
+
++ [Radar Film Studio website](https://www.radarfilm.studio/) Browse, label, and download project data. *(external site)*
 
 ### Barry Lawrence Ruderman Digital Map Collection
 The Barry Lawrence Ruderman Map Collection is an actively growing collection of more than 20,000 digital scans created from the content that has passed through the map dealership of Barry Lawrence Ruderman Antique Maps, Inc. The content focuses primarily on Western European and North American cartographers and printers dating from the late 1400’s to the 1950’s. 
