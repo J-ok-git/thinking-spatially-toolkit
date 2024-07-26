@@ -137,9 +137,15 @@ Sanborn Fire Insurance maps are a "uniform series of large-scale maps, dating fr
 
 [^7]: [Introduction to the Collection](https://www.loc.gov/collections/sanborn-maps/articles-and-essays/introduction-to-the-collection/), Library of Congress
 
+Because of their detail and uniformity over time, these maps are now heavily used to study the history of a place by historians, genealogists, urban planners, and ethnic studies. Stanford Libraries holds maps mainly of California and has scanned those that are out of copyright.
+
++ Spotlight Exhibit: [Sanborn Fire Insurance Maps](https://exhibits.stanford.edu/sanborn-maps)
+
 + [Fire insurance maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=%22Fire+insurance%22&search_field=subject_terms)
 
 + [Digital Sanborn Maps](https://searchworks.stanford.edu/view/7655032)
+
++ [Union List of Sanborn & Other Fire Insurance Maps](https://digitalassets.lib.berkeley.edu/sanborn/sanborn_union_list.html) by state *(external link)*
 
 + [Comprehensive history of Sanborn Maps](https://www.loc.gov/collections/sanborn-maps/articles-and-essays/introduction-to-the-collection/) at the Library of Congress *(external link)*
 
@@ -224,7 +230,9 @@ magnoque quoque addidit stetit. Nexilibus pectore dederat et animum iamque filia
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
 
-## Significant Collections
+---
+
+## Other Significant Collections
 
 ### Conrad Collection on Dutch Waterways
 The Conrad Collection on Dutch Waterways is the personal collection of Jan Frederik Willem Conrad, a 19th century Dutch engineer and former chief inspector of Rijkswaterstaat. Included in this collection are cartographic and technical materials that document the construction of the Dutch waterway and coastal infrastructure during the 17th to 20th centuries.
