@@ -101,7 +101,6 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 [^4]: The New York Public Library's [Historical Travels: Maps](https://libguides.nypl.org/historicaltravels/maps) research guide *(external link)* 
 
-
 + [Stanford's AAA Road Map Collection](https://searchworks.stanford.edu/?utf8=%E2%9C%93&q=AAA+of+Northern+California%2C+Nevada+%26+Utah&search_field=search)
 
 + [Stanford's David Smollar Map Collection, containing road maps from the early 1900s to modern day](https://searchworks.stanford.edu/catalog?q=%22David+Smollar+Map+Collection.%22&search_field=subject_terms)
@@ -122,7 +121,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 + [USGS Geologic Quadrangle Maps of the United States](https://searchworks.stanford.edu/?f%5Bauthor_other_facet%5D%5B%5D=Geological+Survey+%28U.S.%29&f%5Bformat_main_ssim%5D%5B%5D=Map&q=geologic+quadrangle+maps+of+the+united+states&search_field=search)
 
-+ [Stanford Geological Survey historic map collection](https://exhibits.stanford.edu/sgs-collection)
++ Spotlight Exhibit: [Stanford Geological Survey historic map collection](https://exhibits.stanford.edu/sgs-collection)
 
 + [Dibblee Geology Maps of California](https://searchworks.stanford.edu/view/zy568zf7838)
 
@@ -137,19 +136,23 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
 ### Sanborn Maps and Other Fire Insurance Plans
 
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+Sanborn Fire Insurance maps are a "uniform series of large-scale maps, dating from 1867 to the present and depicting the commercial, industrial, and residential sections of some twelve thousand cities and towns in the United States, Canada, and Mexico. The maps were designed to assist fire insurance agents in determining the degree of hazard associated with a particular property and therefore show the size, shape, and construction of dwellings, commercial buildings, and factories as well as fire walls, locations of windows and doors, sprinkler systems, and types of roofs. The maps also indicate widths and names of streets, property boundaries, building use, and house and block numbers." [^7]
+
+[^7]: [Introduction to the Collection](https://www.loc.gov/collections/sanborn-maps/articles-and-essays/introduction-to-the-collection/), Library of Congress
 
 + [Fire insurance maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=%22Fire+insurance%22&search_field=subject_terms)
 
-+ [Digital Sanborn Maps](https://searchworks.stanford.edu/view/7655032) *Searchworks catalog entry*
++ [Digital Sanborn Maps](https://searchworks.stanford.edu/view/7655032)
+
++ [Comprehensive history of Sanborn Maps](https://www.loc.gov/collections/sanborn-maps/articles-and-essays/introduction-to-the-collection/) at the Library of Congress *(external link)*
 
 ### Aerial Photos
 
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
+"Aerial photography became an important part of the mapmaking process in the twentieth century. Aerial photographs provide a straightforward depiction of the physical and cultural landscape of an area at a given time. When skillfully interpreted, these aerial images supply geographers, historians, ecologists, geologists, urban planners, archaeologists, and other professionals with a pictorial basis often critical to their studies. Increasingly, members of the legal profession have used aerial photography in the settlement of cases involving property disputes, riparian rights, and transportation rights-of-way."  [^8]
 
-+ [Harrison Ryker's 1938 Aerial Photos of San Francisco](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3d%225852.000%22&qvq=sort:pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no;lc:RUMSEY~8~1&mi=0) on DavidRumsey.com *(external link)*
+[^8]: National Archives [Aerial Photography collection webpage](https://www.archives.gov/research/cartographic/aerial-photography)
+
++ [Harrison Ryker's historic 1938 Aerial Photos of San Francisco](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no%3d%225852.000%22&qvq=sort:pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no;lc:RUMSEY~8~1&mi=0) on DavidRumsey.com *(external link)*
 
 + UCSB's [FrameFinder](https://mil.library.ucsb.edu/ap_indexes/FrameFinder/), covering much of California and [instructions on use](https://www.library.ucsb.edu/geospatial/finding-airphotos) *(external links)*
 
@@ -162,9 +165,9 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.
 
 "A bird's-eye view map is an elevated oblique-angled view of a geographic area from above, often drawn from a photograph. ... They are an artist's representation of what a specific geographic area looked like at a specific point in time and are generally not drawn to scale."
 
-A bird's-eye view "provides large-scale detailed drawings of residential and industrial buildings, trees, gardens, horse-drawn carriages, even ships and trains. The details seen in these drawings enable researchers to see whether homes had garages, additions, and trees, as well as to determine the street names at the time of production."[^7] 
+A bird's-eye view "provides large-scale detailed drawings of residential and industrial buildings, trees, gardens, horse-drawn carriages, even ships and trains. The details seen in these drawings enable researchers to see whether homes had garages, additions, and trees, as well as to determine the street names at the time of production."[^9] 
 
-[^7]: Dodsworth p223
+[^9]: Dodsworth p223
 
 + [Bird's-eye view maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=bird%27s-eye&search_field=search&sort=year-asc)
 
@@ -173,9 +176,9 @@ A bird's-eye view "provides large-scale detailed drawings of residential and ind
 
 ### Geospatial Data Sources
 
-"Geographic information generally consists of facts, data and/or exidence pertaining to events, activities and things located on (or near) the surface of the earth." [^8]
+"Geographic information generally consists of facts, data and/or exidence pertaining to events, activities and things located on (or near) the surface of the earth." [^10]
 
-[^8]: [Geographic Information; Organization, Access, and Use](https://searchworks.stanford.edu/view/11885843), Bishop and Grubesic 2016
+[^10]: [Geographic Information; Organization, Access, and Use](https://searchworks.stanford.edu/view/11885843), Bishop and Grubesic 2016
 
 Datasets include the kinds of information seen on paper maps but made available as numeric or text values associated with locations and attributes, and arranged as tabular data or grouped in database files.  
 
@@ -241,24 +244,24 @@ Japanese military and imperial maps, referred to as gaihozu, or "maps of outer l
 ### California as an Island
 Between 1500 and 1750, European cartographers frequently represented California as an island on their maps. Stanford Libraries hold more than 800 of these maps, most of which were acquired from Glen McLaughlin by the university in 2012. 
 
-+ Spotlight Exhibit [California as an Island in Maps](https://exhibits.stanford.edu/california-as-an-island)
++ Spotlight Exhibit: [California as an Island in Maps](https://exhibits.stanford.edu/california-as-an-island)
 
 + [Maps depicting California as an island](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=%22california+as+an+island%22&search_field=search)
 
 ### Maps of Africa
 Stanford’s Maps of Africa Collection became a major research resource in August of 2001 with the acquisition of the Oscar I. Norwich Collection of Maps of Africa and its islands, 1486 – ca. 1900. This acquisition added 316 maps to Stanford’s existing holdings of Maps of Africa. The collection nearly doubled in size in 2010 with the purchase of 294 maps from Caroline Batchelor. In 2011 a small set of maps was acquired from Rodney Shirley. In addition, Stanford currently has digital maps from the Barry Lawrence Ruderman Collection, the David Rumsey Map Collection, and the University of Cape Town Collections.
 
-+ Spotlight Exhibit [Maps of Africa: An Online Exhibit](https://exhibits.stanford.edu/maps-of-africa)
++ Spotlight Exhibit: [Maps of Africa: An Online Exhibit](https://exhibits.stanford.edu/maps-of-africa)
 
 ### Antarctic Radar Film Digitization Project
-This work is the culmination of an international effort to recover, scan, and publicly release a collection of historic airborne radar observations of the Antarctic Ice Sheet acquired nearly a half century ago. For decades these data were stored on 35 mm optical film in the museum archives of the Scott Polar Research Institute at Cambridge University. By using a high-resolution film scanner built for recovering old Hollywood movies, this project is providing the scientific community with public access to the full resolution version of the earliest continental-wide survey of the Antarctic Ice Sheet and its subsurface. This effort extends the available ice-sheet-scale observations of Antarctica from the early 2000s (about 15 years ago) to the 1970s (over 40 years ago), providing a critical window into the coupled glaciological, geological, biological, and climatological processes of the Antarctic system over the multi-decadal timescales needed for generating actionable climate projections in assessments like the IPCC.
+This work is the culmination of an international effort to recover, scan, and publicly release a collection of historic airborne radar observations of the Antarctic Ice Sheet acquired nearly a half century ago, providing the scientific community with public access to the full resolution version of the earliest continental-wide survey of the Antarctic Ice Sheet and its subsurface. This effort extends the available ice-sheet-scale observations of Antarctica from the early 2000s to the 1970s, providing a critical window into the coupled glaciological, geological, biological, and climatological processes of the Antarctic system over the multi-decadal timescales needed for generating actionable climate projections in assessments like the IPCC.
 
 + Spotlight Exhibit [Antarctic Radar Film Digitization Project](https://exhibits.stanford.edu/radarfilm)
 
 + [Radar Film Studio website](https://www.radarfilm.studio/) Browse, label, and download project data. *(external site)*
 
 ### Barry Lawrence Ruderman Digital Map Collection
-The Barry Lawrence Ruderman Map Collection is an actively growing collection of more than 20,000 digital scans created from the content that has passed through the map dealership of Barry Lawrence Ruderman Antique Maps, Inc. The content focuses primarily on Western European and North American cartographers and printers dating from the late 1400’s to the 1950’s. 
+The Barry Lawrence Ruderman Map Collection is an actively growing collection of more than 20,000 digital scans created from material that has passed through the map dealership of Barry Lawrence Ruderman Antique Maps, Inc. The content focuses primarily on Western European and North American cartographers and printers dating from the late 1400’s to the 1950’s. 
 
 + [The Barry Lawrence Ruderman Map Collection](https://searchworks.stanford.edu/view/jw357py5564)
 
