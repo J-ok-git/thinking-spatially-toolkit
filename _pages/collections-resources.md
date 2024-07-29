@@ -73,6 +73,8 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 + [Atlases in Stanford Libraries](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=atlas&search_field=search)
 
++ [ESRI ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/en/home/) *(external link)*
+
 + [Atlases on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_type%3Datlas%20AND%20type%3Dtitle%20page%20LIMIT%3ARUMSEY%7E8%7E1&sort=pub_list_no_initialsort%2Cpub_list_no&os=0&pgs=250&res=1) *(external link)*
 
 ### Topographic, City, and Town Maps
@@ -91,7 +93,9 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 + [Cadastral maps in Stanford Libraries](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=cadastral&search_field=search)
 
-+ *Find maps of cities in Stanford's collections by searching for the Resource Type "Map" with a city name in the Subject.* [*See this example for San Francisco*](https://searchworks.stanford.edu/?op=must&clause%5B0%5D%5Bfield%5D=search&clause%5B0%5D%5Bquery%5D=&clause%5B1%5D%5Bfield%5D=search_title&clause%5B1%5D%5Bquery%5D=&clause%5B2%5D%5Bfield%5D=search_author&clause%5B2%5D%5Bquery%5D=&clause%5B3%5D%5Bfield%5D=subject_terms&clause%5B3%5D%5Bquery%5D=San+Francisco&clause%5B4%5D%5Bfield%5D=series_search&clause%5B4%5D%5Bquery%5D=&clause%5B5%5D%5Bfield%5D=pub_search&clause%5B5%5D%5Bquery%5D=&clause%5B6%5D%5Bfield%5D=isbn_search&clause%5B6%5D%5Bquery%5D=&range%5Bpub_year_tisim%5D%5Bbegin%5D=&range%5Bpub_year_tisim%5D%5Bend%5D=&f_inclusive%5Bformat_main_ssim%5D%5B%5D=Map&sort=relevance&commit=Search)
++ [Maps of cities and towns in Earthworks](https://earthworks.stanford.edu/?f%5Bdct_subject_sm%5D%5B%5D=Cities+and+towns)
+
++ *Find maps of cities in Searchworks by searching for the Resource Type "Map" with a city name in the Subject.* [*See this example for San Francisco*](https://searchworks.stanford.edu/?op=must&clause%5B0%5D%5Bfield%5D=search&clause%5B0%5D%5Bquery%5D=&clause%5B1%5D%5Bfield%5D=search_title&clause%5B1%5D%5Bquery%5D=&clause%5B2%5D%5Bfield%5D=search_author&clause%5B2%5D%5Bquery%5D=&clause%5B3%5D%5Bfield%5D=subject_terms&clause%5B3%5D%5Bquery%5D=San+Francisco&clause%5B4%5D%5Bfield%5D=series_search&clause%5B4%5D%5Bquery%5D=&clause%5B5%5D%5Bfield%5D=pub_search&clause%5B5%5D%5Bquery%5D=&clause%5B6%5D%5Bfield%5D=isbn_search&clause%5B6%5D%5Bquery%5D=&range%5Bpub_year_tisim%5D%5Bbegin%5D=&range%5Bpub_year_tisim%5D%5Bend%5D=&f_inclusive%5Bformat_main_ssim%5D%5B%5D=Map&sort=relevance&commit=Search)
 
 ### Railroad, Road, and Other Transportation Maps
 
