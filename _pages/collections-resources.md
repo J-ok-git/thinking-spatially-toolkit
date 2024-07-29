@@ -212,6 +212,8 @@ Gazetteers provide exact latitude and longitude for cities, towns, and geographi
 
 + [Guide to Gazetteers](https://guides.library.stanford.edu/mapcollections/mapgazetteers)
 
++ [Gazetteers](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1857369&site=ehost-live&authtype=ip,sso&custid=s4392798&ebv=EB&ppid=pp_323), Chapter 16 in Dodsworth 2018 *(external link)* <br> Organized into lists for Canada at national, provincial, and county level, and the US at national and state level.
+
 ### Bibliographies
 
 "A bibliography is a list of resources, such as books, articles, maps, and other documents, that share a common principle such as subject, authorship, place of publication, or publisher. Bibliographies can play a large role in the research process, providing users with reading lists, threads for further information, sources of reliable material, and assistance for developing collections in new areas. For researchers who are studying specific subjects, a bibliography dedicated to that subject provides a comprehensive listing of related materials. Researchers studying cartography or GIS may benefit from a list of, for example, air photos published for a specific geographic region or a list of all historical topographic maps published within a given year. Not only is this comprehensive, specialized list an excellent way to begin the research process, but, for many, it is all that is needed to find the relevant resources." [^11]
@@ -222,7 +224,7 @@ Gazetteers provide exact latitude and longitude for cities, towns, and geographi
 
 + [ESRI GIS Bibliography](https://gis.library.esri.com/) *(external link)*
 
-+ [Bibliographies](https://web.p.ebscohost.com/ehost/ebookviewer/ebook?sid=642a16fb-dbfe-4e72-a3a3-1ba5f44babbf%40redis&ppid=pp_311&vid=0&format=EB), Chapter 15 in Dodsworth 2018. <br> Organized into dedicated lists for cartography, maps, GIS, remote and and aerial photography. *(external link)*
++ [Bibliographies](https://web.p.ebscohost.com/ehost/ebookviewer/ebook?sid=642a16fb-dbfe-4e72-a3a3-1ba5f44babbf%40redis&ppid=pp_311&vid=0&format=EB), Chapter 15 in Dodsworth 2018. *(external link)* <br> Organized into dedicated lists for cartography, maps, GIS, remote and and aerial photography. 
 
 
 
