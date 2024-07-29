@@ -83,13 +83,13 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 [^2]: Dodsworth p93
 
-+ [Topographic maps in Stanford Libraries](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&search_field=search&q=topographic)
-
-+ [Current and historical United States Geological Survey (USGS) topographic maps](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps) *(external link)*
-
 "City and town maps depict urban areas, recording the evolution and growth of cities over time...This map category includes cadastral maps, land ownership plans that show boundaries and ownership of land including owner names, parcel numbers, certificate of title numbers, positions of existing structures, lot numbers, and more."  [^3]
 
 [^3]: Dodsworth p95
+
++ [Topographic maps in Stanford Libraries](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&search_field=search&q=topographic)
+
++ [Current and historical United States Geological Survey (USGS) topographic maps](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps) *(external link)*
 
 + [Cadastral maps in Stanford Libraries](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&q=cadastral&search_field=search)
 
