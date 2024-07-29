@@ -75,7 +75,7 @@ Typically "atlases are categorized by scale: continent, nation, state or provinc
 
 + [ESRI ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/en/home/) *(external link)*
 
-+ [Atlases on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_type%3Datlas%20AND%20type%3Dtitle%20page%20LIMIT%3ARUMSEY%7E8%7E1&sort=pub_list_no_initialsort%2Cpub_list_no&os=0&pgs=250&res=1) *(external link)*
++ [Historic atlases on DavidRumsey.com](https://www.davidrumsey.com/luna/servlet/view/search?q=pub_type%3Datlas%20AND%20type%3Dtitle%20page%20LIMIT%3ARUMSEY%7E8%7E1&sort=pub_list_no_initialsort%2Cpub_list_no&os=0&pgs=250&res=1) *(external link)*
 
 ### Topographic, City, and Town Maps
 
