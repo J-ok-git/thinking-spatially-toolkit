@@ -55,11 +55,9 @@ Accessible through the Earthworks data portal, Stanford's collections include ov
 ---
 
 ## Types of Cartographic Resources
-*Stanford Libraries continually evaluates and improves its collections of information resources based on the needs of our researchers, educators, and learners. Below are some of the different types of collections you will find in the library, as well as why they might be an important component to your work.*
+*Stanford Libraries continually evaluates and improves its collections of information resources based on the needs of our researchers, educators, and learners. Below are some of the different types of collections you will find in the library.*
 
 *Links at the end of each section lead to material in Stanford Libraries' collections unless otherwise indicated.*
-
-*Categories courtesy of [Eva Dodsworth's 2018 "A Research Guide to Cartographic Resources"](https://searchworks.stanford.edu/view/14278618); new sections will be added over time.*
 
 ### Atlases
 
@@ -208,16 +206,26 @@ ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
 
-<!--### Bibliographies
-
-Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
-ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
-
 ### Gazetteers
 
 Gazetteers provide exact latitude and longitude for cities, towns, and geographic places, along with population statistics where relevant. 
 
 + [Guide to Gazetteers](https://guides.library.stanford.edu/mapcollections/mapgazetteers)
+
+### Bibliographies
+
+"A bibliography is a list of resources, such as books, articles, maps, and other documents, that share a common principle such as subject, authorship, place of publication, or publisher. Bibliographies can play a large role in the research process, providing users with reading lists, threads for further information, sources of reliable material, and assistance for developing collections in new areas. For researchers who are studying specific subjects, a bibliography dedicated to that subject provides a comprehensive listing of related materials. Researchers studying cartography or GIS may benefit from a list of, for example, air photos published for a specific geographic region or a list of all historical topographic maps published within a given year. Not only is this comprehensive, specialized list an excellent way to begin the research process, but, for many, it is all that is needed to find the relevant resources." [^11]
+
+[^11]: Dodsworth p311
+
++ [Cartobibliographies](https://searchworks.stanford.edu/?f%5Bgenre_ssim%5D%5B%5D=Bibliography&f%5Btopic_facet%5D%5B%5D=Maps&page=2&search_field=subject_terms&sort=year-desc)
+
++ [ESRI GIS Bibliography](https://gis.library.esri.com/) *(external link)*
+
++ [Bibliographies](https://web.p.ebscohost.com/ehost/ebookviewer/ebook?sid=642a16fb-dbfe-4e72-a3a3-1ba5f44babbf%40redis&ppid=pp_311&vid=0&format=EB), Chapter 15 in Dodsworth 2018. <br> Organized into dedicated lists for cartography, maps, GIS, remote and and aerial photography. *(external link)*
+
+
+
 
 <!--### Reference Books
 
@@ -229,6 +237,8 @@ magnoque quoque addidit stetit. Nexilibus pectore dederat et animum iamque filia
 
 Lorem markdownum utque stratosque misit gelidos fratribus iterque, in fugias,
 ait. Nec astra anguesque, in curia murmurat quicumque coniugium pharetram.-->
+
+
 
 ---
 
