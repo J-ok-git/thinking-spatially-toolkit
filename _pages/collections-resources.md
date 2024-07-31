@@ -54,7 +54,7 @@ Accessible through the Earthworks data portal, Stanford's collections include ov
 
 ---
 
-## Types of Cartographic Resources
+## Types of Cartographic Information
 *Stanford Libraries continually evaluates and improves its collections of information resources based on the needs of our researchers, educators, and learners. Below are some of the different types of collections you will find in the library.*
 
 *Links at the end of each section lead to material in Stanford Libraries' collections unless otherwise indicated.*
