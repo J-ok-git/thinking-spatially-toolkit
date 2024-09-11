@@ -23,9 +23,9 @@ Site is currently being developed – please excuse the incompleteness
 
 There are several ways to go about this. Tutorials below are arranged with the easiest one at the top and become more complex as you go down the list. 
 
-Step-by-step guide: [How to Georeference a Map in Allmaps to Display in Felt](https://docs.google.com/document/d/1bYLQePTx8Cdcke4MZjFw1Kr0r6Isc1J_cki2JZRnUso/edit?usp=sharing)
-
-*Simple tutorial for creating a georeferenced overlay of a map image in Felt.com* 
+- [How to Georeference a Map in Allmaps to Display in Felt] 
+ - (https://docs.google.com/document/d/1bYLQePTx8Cdcke4MZjFw1Kr0r6Isc1J_cki2JZRnUso/edit?usp=sharing)
+ - *Simple tutorial for creating a georeferenced overlay of a map image in Felt.com* 
 
 [more to come]
 {: .question}
