@@ -20,6 +20,9 @@ Site is currently being developed – please excuse the incompleteness
 {: .question}
 ### How can I georeference a map to show as a digital map overlay? In other words, how can I make geographic comparisons between a modern and historical map?
 [Information about QGIS, ArcGIS Pro, Allmaps, Georeferencer, etc. Maybe GDAL2tiles.py? Introduce concept os georeferencing, tools and examples]
+There are several ways to go about this. Tutorials below are arranged with easiest ones first and get more complex as you go down the list.  
+Step-by-step guide: [How to Georeference a Map in Allmaps to Display in Felt](https://docs.google.com/document/d/1bYLQePTx8Cdcke4MZjFw1Kr0r6Isc1J_cki2JZRnUso/edit?usp=sharing)
+Simple tutorial for creating a georeferenced overlay of a map image in Felt.com 
 
 {: .question}
 ### Who can I talk to at Stanford Libraries about making a map?
