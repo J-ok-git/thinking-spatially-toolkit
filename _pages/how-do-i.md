@@ -24,7 +24,11 @@ Site is currently being developed – please excuse the incompleteness
 There are several ways to go about this. Tutorials below are arranged with the easiest one at the top and become more complex as you go down the list. 
 
 - [How to Georeference a Map in Allmaps to Display in Felt](https://docs.google.com/document/d/1bYLQePTx8Cdcke4MZjFw1Kr0r6Isc1J_cki2JZRnUso/edit?usp=sharing)
-  - *Simple tutorial for creating a georeferenced overlay of a map image in Felt.com* 
+  - *Simple tutorial for creating a georeferenced overlay of a historical map image on a contemporary basemap in Felt.com, a cloud-based GIS application.*
+ 
+- [Georeferencing in QGIS](https://storymaps.arcgis.com/stories/e8d1d13ca8894643970f315d16010ee9)
+  - *Learn to georeference historical maps in QGIS, a desktop GIS application, resulting in a more precise alignment between map image and location.*
+  
 
 [more to come]
 {: .question}
