@@ -37,6 +37,8 @@ Site is currently being developed – please excuse the incompleteness
 ### How can I map a set of addresses? 
 [SGC address locator service guide]
 
+https://github.com/StanfordGeospatialCenter/Locator-Scripts
+
 {: .question}
 ### How can I make a map without using advanced GIS software?
 [Felt maps, Google Earth Web...]
