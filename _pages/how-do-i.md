@@ -32,52 +32,75 @@ Site is currently being developed – please excuse the incompleteness
  # [Searchworks, different branches, reach out to librarians]
 </details>
 
-
-
-### What is the difference between davidrumsey.com and SearchWorks? How do I know which maps I van view in person at Stanford Libraries?
+{: .question}
+<details>
+  <summary><b><em>What is the difference between davidrumsey.com and SearchWorks? How do I know which maps I van view in person at Stanford Libraries?</em></b></summary>
 [Search for the "pub list no." from davidrumsey.com in SearchWorks and filter your results to the David Rumsey Map Center. If your search comes up empty, we most likely have not received the map from David yet.] [Should we just encourage people to do a title search? Aren't pub list numbers altered more frequently than titles in the case of atlas plates?]
+</details>
 
 {: .question}
-### Where can I find datasets to use in a project?
+<details>
+  <summary><b><em>Where can I find datasets to use in a project?</em></b></summary>
 [ArcGIS, Earthworks, data.gov]
+</details>
+
+{: .question}
+<details>
+  <summary><b><em>How do I see in person at the Library?</em></b></summary>
+Branner info and DRMC info 
+</details>
 
 
 ## Accessing
+
 {: .question}
-### How can I include images of maps from your collections in my paper, resentation, digital exhibit, art project, or publication?
+<details>
+  <summary><b><em>How can I include images of maps from your collections in my paper, presentation, digital exhibit, art project, or publication?</em></b></summary>
 [Download links on Searchworks & DR.com; direct linking using IIIF; exporting map images from ArcGIS. Permissions?]
+</details>
 
 ## Using
 {: .question}
-### How should I identify or cite maps I use in my academic work?
+<details>
+  <summary><b><em>How should I identify or cite maps I use in my academic work?</em></b></summary>
 [Examples; description of acceptable uses]
+</details>
 
 ## Combining
 {: .question}
-### How can I add my data to Google Maps or a similar web map?
+<details>
+  <summary><b><em>How can I add my data to Google Maps or a similar web map?</em></b></summary>
 [Felt maps, ArcGIS Online, Google Earth Web, StoryMaps JS, Leaflet, Mapbox, OpenLayers, Tetc...]
+</details>
 
 ## Getting Help
 {: .question}
-### Who can I talk to at Stanford Libraries about making a map?
+<details>
+  <summary><b><em>Who can I talk to at Stanford Libraries about making a map?</em></b></summary>
 [SGC for cartographic production assistance, Branner and DRMC for basics (examples, tool/app support, etc.)]
+</details>
 
 {: .question}
-### How can I learn more about GIS?
+<details>
+  <summary><b><em>How can I learn more about GIS?</em></b></summary>
 [SGC resources like...]
+</details>
 
 ## Presenting
-{: .question}
-### How can I georeference a map to show as a digital map overlay? In other words, how can I make geographic comparisons between a modern and historical map?
-[Information about QGIS, ArcGIS Pro, Allmaps, Georeferencer, etc. Maybe GDAL2tiles.py? Introduce concept os georeferencing, tools and examples]
 
-There are several ways to go about this. Tutorials below are arranged with the easiest one at the top and become more complex as you go down the list. 
+{: .question}
+<details>
+  <summary><b><em>How can I georeference a map to show as a digital map overlay? In other words, how can I make geographic comparisons between a modern and historical map?</em></b></summary>
+[Information about QGIS, ArcGIS Pro, Allmaps, Georeferencer, etc. Maybe GDAL2tiles.py? Introduce concept os georeferencing, tools and examples]
+There are several ways to go about this. Tutorials below are arranged with the easiest one at the top and become more complex as you go down the list. Let's add some here.
 
 - [How to Georeference a Map in Allmaps to Display in Felt](https://docs.google.com/document/d/1bYLQePTx8Cdcke4MZjFw1Kr0r6Isc1J_cki2JZRnUso/edit?usp=sharing)
   - *Simple tutorial for creating a georeferenced overlay of a historical map image on a contemporary basemap in Felt.com, a cloud-based GIS application.*
  
 - [Georeferencing in QGIS](https://storymaps.arcgis.com/stories/e8d1d13ca8894643970f315d16010ee9)
   - *Learn to georeference historical maps in QGIS, a desktop GIS application, resulting in a more precise alignment between map image and location.*
+
+  </details>
 
 {: .question}
 ### How can I map a set of addresses? 
@@ -91,3 +114,43 @@ There are several ways to go about this. Tutorials below are arranged with the e
 ### How can I make a map for publishing in a presentation, journal article, poster, digital exhibit, etc.?
 [SGC cartography resources.]
 
+
+
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        Accordion Item #1
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        Accordion Item #2
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        Accordion Item #3
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+</div>
