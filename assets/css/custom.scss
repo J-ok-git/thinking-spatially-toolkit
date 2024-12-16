@@ -9,30 +9,3 @@
 .answer {
   margin-top: 10px;
 }
-.accordion {
-  border: 1px solid #ccc;
-  margin-bottom: 10px;
-}
-
-.accordion-button {
-  background-color: #eee;
-  padding: 10px;
-  width: 100%;
-  text-align: left;
-  border: none;
-  cursor: pointer;
-  outline: none;
-  font-size: 15px;
-}
-
-.accordion-content {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.3s ease-out;
-}
-
-.accordion-button[aria-expanded="true"] ~ .accordion-content {
-  max-height: 500px;
-  padding: 10px;
-  background-color: #fff;
-}
