@@ -84,6 +84,18 @@ Site is currently being developed – please excuse the incompleteness
   </div>
 </details>
 
+## Preparing
+
+{: .question}
+
+<details>
+  <summary><b><em>How should I prepare my map or GIS project?</em></b></summary>
+  <div class="answer">
+    <p>Answer.
+    </p>
+  </div>
+</details>
+
 ## Combining
 
 {: .question}
