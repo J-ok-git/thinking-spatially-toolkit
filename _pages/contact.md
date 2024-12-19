@@ -21,7 +21,7 @@ List of who we are. Maybe a brief blurb about why people might contact us?
 
 ## Open Hours
 
-Each branch of Stanford University Library operates their own unique hours based on space and staffing resources. Below is information about the open hours for the Stanford Libraries' map and GIS team branches.
+Each branch of Stanford University Library operates their own unique hours based on space and staffing resources. Below is information about the open hours for the Stanford Libraries' map and GIS team branches. You can find the [Stanford Library-wide calendar, here.](https://library-hours.stanford.edu/)  
 
 ### Branner Earth Science Library
 
