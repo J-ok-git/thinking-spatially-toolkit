@@ -141,7 +141,7 @@ Site is currently being developed – please excuse the incompleteness
 
         <ul>
             <li>
-                <a href="https://docs.google.com/document/d/1bYLQePTx8Cdcke4MZjFw1Kr0r6Isc1J_cki2JZRnUso/edit?usp=sharing">
+                <a href="https://kristinallarsen.github.io/cloud-ear/blog/georeferencing_tutorial/">
                     How to Georeference a Map in Allmaps to Display in Felt
                 </a>
                 <ul style="margin-left: 20px;">
