@@ -13,7 +13,7 @@ show_sidetoc: true
 ---
 
 {: .alert .alert-dismissible .alert-warning}
-Site is currently being developed – please excuse the incompleteness
+Site is currently being developed – please excuse the incompleteness!
 
 ## Who's Who
 
