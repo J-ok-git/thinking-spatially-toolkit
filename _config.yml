@@ -117,6 +117,8 @@ navbar:
       url: /resources
     - title: How do I?
       url: /how-do-i
+    - title: California as an Island
+      url: /modules/california-as-an-island
     - title: About
       url: /about
     - title: Contact and Help
