@@ -86,9 +86,14 @@ The materials needed for this class include:
   <tr>
     <th style="border: none">
     <a href="https://stacks.stanford.edu/image/iiif/pm323nt1979%2Fpm323nt1979_00_0001/367,342,4275,3182/full/0/default.jpg">
+      <img src="https://stacks.stanford.edu/image/iiif/pm323nt1979%2Fpm323nt1979_00_0001/367,342,4275,3182/full/0/default.jpg" alt="1596, Magini, Tartariae Imperium" style="width:200px;">
     </a>
-    <img src="https://stacks.stanford.edu/image/iiif/pm323nt1979%2Fpm323nt1979_00_0001/367,342,4275,3182/full/0/default.jpg" alt="1596, Magini, Tartariae Imperium" style="width:200px;"></th>
-    <th style="border: none"><img src="https://stacks.stanford.edu/image/iiif/cy607dp2112%2F38937/65,58,2851,2899/full/0/default.jpg" alt="1802 Espinosa y Tello" style="width:200px;"></th>
+    </th>
+    <th style="border: none">
+    <a href="https://stacks.stanford.edu/image/iiif/cy607dp2112%2F38937/65,58,2851,2899/full/0/default.jpg">
+      <img src="https://stacks.stanford.edu/image/iiif/cy607dp2112%2F38937/65,58,2851,2899/full/0/default.jpg" alt="1802 Espinosa y Tello" style="width:200px;">
+      </a>
+    </th>
   </tr>
   <tr>
     <td style="border: none">1596, Magini, Tartariae Imperium</td>
@@ -99,8 +104,16 @@ The materials needed for this class include:
 
 <table style="border: none">
   <tr>
-    <th style="border: none"><img src="https://stacks.stanford.edu/image/iiif/sy409bk9698%2Fsy409bk9698_05_0001/1556,1588,9149,7887/full/0/default.jpg" alt="1625 Briggs, The North part of America conteyning Newfoundland" style="width:200px;"></th>
-    <th style="border: none"><img src="https://stacks.stanford.edu/image/iiif/bx376jn7462%2Fbx376jn7462_05_0001/-15,49,12912,10363/full/0/default.jpg" alt="1660 Walton, A New, Plaine, and Exact Map of AMERICA" style="width:200px;"></th>
+    <th style="border: none">
+      <a href="https://stacks.stanford.edu/image/iiif/sy409bk9698%2Fsy409bk9698_05_0001/1556,1588,9149,7887/full/0/default.jpg">
+        <img src="https://stacks.stanford.edu/image/iiif/sy409bk9698%2Fsy409bk9698_05_0001/1556,1588,9149,7887/full/0/default.jpg" alt="1625 Briggs, The North part of America conteyning Newfoundland" style="width:200px;">
+      </a>
+    </th>
+    <th style="border: none">
+      <a href="https://stacks.stanford.edu/image/iiif/bx376jn7462%2Fbx376jn7462_05_0001/-15,49,12912,10363/full/0/default.jpg">
+        <img src="https://stacks.stanford.edu/image/iiif/bx376jn7462%2Fbx376jn7462_05_0001/-15,49,12912,10363/full/0/default.jpg" alt="1660 Walton, A New, Plaine, and Exact Map of AMERICA" style="width:200px;">
+      </a>
+    </th>
   </tr>
   <tr>
     <td style="border: none">1625 Briggs, The North part of America conteyning Newfoundland</td>
@@ -110,8 +123,16 @@ The materials needed for this class include:
 
 <table style="border: none">
   <tr>
-    <th style="border: none"><img src="https://stacks.stanford.edu/image/iiif/yg670wy9796%2Fyg670wy9796_05_0001/1563,1457,13871,11556/full/0/default.jpg" alt="1666, Pieter Goos, Paskaerte van NOVA GRANADA" style="width:200px;"></th>
-    <th style="border: none"><img src="https://stacks.stanford.edu/image/iiif/cb303zr7917%2Fcb303zr7917_00_0001/112,143,14122,10639/full/0/default.jpg" alt="1677, Duvall, CARTE VNIVERSELLE du MONDE" style="width:200px;"></th>
+    <th style="border: none">
+      <a href="https://stacks.stanford.edu/image/iiif/yg670wy9796%2Fyg670wy9796_05_0001/1563,1457,13871,11556/full/0/default.jpg">
+        <img src="https://stacks.stanford.edu/image/iiif/yg670wy9796%2Fyg670wy9796_05_0001/1563,1457,13871,11556/full/0/default.jpg" alt="1666, Pieter Goos, Paskaerte van NOVA GRANADA" style="width:200px;">
+      </a>
+    </th>
+    <th style="border: none">
+      <a href="https://stacks.stanford.edu/image/iiif/cb303zr7917%2Fcb303zr7917_00_0001/112,143,14122,10639/full/0/default.jpg">
+        <img src="https://stacks.stanford.edu/image/iiif/cb303zr7917%2Fcb303zr7917_00_0001/112,143,14122,10639/full/0/default.jpg" alt="1677, Duvall, CARTE VNIVERSELLE du MONDE" style="width:200px;">
+      </a>
+    </th>
   </tr>
   <tr>
     <td style="border: none">1666, Pieter Goos, Paskaerte van NOVA GRANADA</td>
@@ -121,8 +142,16 @@ The materials needed for this class include:
 
 <table style="border: none">
   <tr>
-    <th style="border: none"><img src="https://stacks.stanford.edu/image/iiif/sp153gq7179%2Fsp153gq7179_05_0001/460,304,5749,3744/full/0/default.jpg" alt="1700, Scherer, IDEA NATVRALIS AMERICÆ" style="width:200px;"></th>
-    <th style="border: none"><img src="https://stacks.stanford.edu/image/iiif/hy804fw5582%2Fhy804fw5582_05_0001/1829,1095,12083,14605/full/0/default.jpg" alt="Mortier, 1709, CARTE GENERALE DE TOUTES LES COSTES DU MONDE" style="width:200px;"></th>
+    <th style="border: none">
+      <a href="https://stacks.stanford.edu/image/iiif/sp153gq7179%2Fsp153gq7179_05_0001/460,304,5749,3744/full/0/default.jpg">
+        <img src="https://stacks.stanford.edu/image/iiif/sp153gq7179%2Fsp153gq7179_05_0001/460,304,5749,3744/full/0/default.jpg" alt="1700, Scherer, IDEA NATVRALIS AMERICÆ" style="width:200px;">
+      </a>
+    </th>
+    <th style="border: none">
+      <a href="https://stacks.stanford.edu/image/iiif/hy804fw5582%2Fhy804fw5582_05_0001/1829,1095,12083,14605/full/0/default.jpg">
+        <img src="https://stacks.stanford.edu/image/iiif/hy804fw5582%2Fhy804fw5582_05_0001/1829,1095,12083,14605/full/0/default.jpg" alt="Mortier, 1709, CARTE GENERALE DE TOUTES LES COSTES DU MONDE" style="width:200px;">
+      </a>
+    </th>
   </tr>
   <tr>
     <td style="border: none">1700, Scherer, IDEA NATVRALIS AMERICÆ</td>
@@ -132,8 +161,16 @@ The materials needed for this class include:
 
 <table style="border: none">
   <tr>
-    <th style="border: none"><img src="https://stacks.stanford.edu/image/iiif/hy431kv1138%2Fhy431kv1138_05_0001/1829,1095,15482,10129/full/0/default.jpg" alt="1719, Moll, North America" style="width:200px;"></th>
-    <th style="border: none"><img src="https://stacks.stanford.edu/image/iiif/zq865vc1696%2Fzq865vc1696_05_0001/-4,162,7304,4579/full/0/default.jpg" alt="1727, Mendoza, Mappa dela Obscurasion dela Tierra Inel Eclypse de Sol" style="width:200px;"></th>
+    <th style="border: none">
+      <a href="https://stacks.stanford.edu/image/iiif/hy431kv1138%2Fhy431kv1138_05_0001/1829,1095,15482,10129/full/0/default.jpg">
+        <img src="https://stacks.stanford.edu/image/iiif/hy431kv1138%2Fhy431kv1138_05_0001/1829,1095,15482,10129/full/0/default.jpg" alt="1719, Moll, North America" style="width:200px;">
+      </a>
+    </th>
+    <th style="border: none">
+      <a herf="https://stacks.stanford.edu/image/iiif/zq865vc1696%2Fzq865vc1696_05_0001/-4,162,7304,4579/full/0/default.jpg">
+        <img src="https://stacks.stanford.edu/image/iiif/zq865vc1696%2Fzq865vc1696_05_0001/-4,162,7304,4579/full/0/default.jpg" alt="1727, Mendoza, Mappa dela Obscurasion dela Tierra Inel Eclypse de Sol" style="width:200px;">
+      </a>
+      </th>
   </tr>
   <tr>
     <td style="border: none">1719, Moll, North America</td>
@@ -143,8 +180,16 @@ The materials needed for this class include:
 
 <table style="border: none">
   <tr>
-    <th style="border: none"><img src="https://stacks.stanford.edu/image/iiif/pj048tg9018%2Fpj048tg9018_0001/144,206,17981,13100/full/0/default.jpg" alt="1775, Jefferys, The Russian discoveries from the map published by the Imperial Academy of St. Petersburg" style="width:200px;"></th>
-    <th style="border: none"><img src="https://stacks.stanford.edu/image/iiif/gf224kq6038%2F3354003/144,206,7627,9744/full/0/default.jpg" alt="1798, Vancouver, Voyage of discovery to the North Pacific Ocean" style="width:200px;"></th>
+    <th style="border: none">
+      <a href="https://stacks.stanford.edu/image/iiif/pj048tg9018%2Fpj048tg9018_0001/144,206,17981,13100/full/0/default.jpg">
+        <img src="https://stacks.stanford.edu/image/iiif/pj048tg9018%2Fpj048tg9018_0001/144,206,17981,13100/full/0/default.jpg" alt="1775, Jefferys, The Russian discoveries from the map published by the Imperial Academy of St. Petersburg" style="width:200px;">
+      </a>
+    </th>
+    <th style="border: none">
+      <a href="https://stacks.stanford.edu/image/iiif/gf224kq6038%2F3354003/144,206,7627,9744/full/0/default.jpg">
+        <img src="https://stacks.stanford.edu/image/iiif/gf224kq6038%2F3354003/144,206,7627,9744/full/0/default.jpg" alt="1798, Vancouver, Voyage of discovery to the North Pacific Ocean" style="width:200px;">
+      </a>
+    </th>
   </tr>
   <tr>
     <td style="border: none">1775, Jefferys, The Russian discoveries from the map published by the Imperial Academy of St. Petersburg</td>

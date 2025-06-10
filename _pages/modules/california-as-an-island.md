@@ -84,9 +84,10 @@ The materials needed for this class include:
 <table style="border: none">
   <tr>
     <th style="border: none">
-    <a href="https://commons.wikimedia.org/wiki/File:Esplandian.jpg">
-    </a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esplandian.jpg/256px-Esplandian.jpg?20200107202255" alt="Las Sergas de Esplandián by Garci Rodriguez de Montalvo - Wikipedia Commons" style="width:200px;"></th>
+      <a href="https://commons.wikimedia.org/wiki/File:Esplandian.jpg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esplandian.jpg/256px-Esplandian.jpg?20200107202255" alt="Las Sergas de Esplandián by Garci Rodriguez de Montalvo - Wikipedia Commons" style="width:200px;">
+      </a>
+    </th>
     <th style="border: none"><img src="/1597 Granata Nova.png" alt="1597 Cornelis Wytfliet, Granata Nova et California" style="width:900px;"></th>
     <th style="border: none"><img src="/1622 Antonio de Herrera y Tordesillas.png" alt="1622 Antonio de Herrera y Tordesillas, DESCRIPTIO INDIÆ OCCIDENTALIS Per Antonium de Herrera Regium Indiarum et Castellæ Historiographum" style="width:200px;"></th>
   </tr>
