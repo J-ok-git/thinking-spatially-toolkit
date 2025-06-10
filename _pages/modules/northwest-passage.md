@@ -76,11 +76,10 @@ The class is structured to combine a range of activities, group discussions, and
 ## Preparing Materials
 
 The materials needed for this class include:
-1. The template of the Northwest Passage for the solo activity (Step 2)
-2. The Northwest Passage Slide Deck (Step 3)
-3. Copies of the topic cards (Step 5)
-4. Printed copies of the Northwest Passage map selection (Step 5)
-
+1. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/Solo%20Activity_Northwest%20Passage%20Template.pdf">The template of the Northwest Passage for the solo activity (Step 2)</a>
+2. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/Northwest%20Passage%20Presentation.pdf">The Northwest Passage Slide Deck (Step 3)</a>
+3. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/Discussion%20Topics%20for%20the%20Northwest%20Passage.pdf">Copies of the topic cards (Step 5)</a>
+4. <a href="https://github.com/J-ok-git/drmc-modules/blob/main/assets/pdf/Map%20Collection%20for%20the%20Northwest%20Passage%20Class.pdf">Printed copies of the Northwest Passage map selection (Step 5)</a>
 
 <table style="border: none">
   <tr>

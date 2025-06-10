@@ -8,7 +8,7 @@ remote_theme: dieghernan/chulapa
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale: en-US
-title: Thinking Spatially Toolkit #default["repository_name"]
+title: DRMC Modules #default["repository_name"]
 title_separator: #default [" | "]
 subtitle: Stanford Libraries [your-repository-tagline]
 description: #default [your-repository-tagline]
