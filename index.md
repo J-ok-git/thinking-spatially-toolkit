@@ -1,33 +1,28 @@
 ---
 layout: default
-title: Thinking Spatially Toolkit
-subtitle: Getting started with your map or GIS project at Stanford Libraries
+title: Introduction
+subtitle: David Rumsey Map Center - Modules 
+include_on_search: true
+show_breadcrumb: true
+show_toc: true
 show_sidetoc: true
 ---
 
 {: .alert .alert-dismissible .alert-warning}
 Site is currently being developed – please excuse the incompleteness
 
-This toolkit is meant to provide context and direction for anyone at Stanford working with spatial and cartographic information, and as a launchpad for using maps, geospatial data, and applications to effectively communicate spatial concepts. It is built on the collective widsom of knowledgeable staff at Stanford Libraries.
+## What are 'DRMC Modules'?
 
-Thinking spatially is how we analyze and understand the complexities of the world around us in spatial terms. It can help us gain a deeper understanding of the interconnectedness of the world and the complex relationshiops between human societies and the environment.
+David Rumsey Map Center's 'Modules' are a set of pre-made classes that professors can request we deliver to their students. Each 'module' refers to a one-time lesson on a given topic based on the collection of maps we have in the center. Currently we have two such modules, namely 'California as an Island' and 'Charting the Northwest Passage'.
 
-## Overview
 
-This site is organized by general topics on different pages, each with a table of content located at the top of the page, as well as in the "+" tab on the bottom left side of the page.
+## Who can avail of these modules?
 
-The different pages which make up this site are:
+Anyone can use the materials available on this site. Each module is designed to be delivered either in-person at the center in Stanford's Green Library, or in a separate classroom setting. However, we recommend coming to the center in person to view the selected materials up-close. 
 
-- **Introduction**: An explanation of what it means to "think spatially" and how it can benefit your work.
-- **Tools**: An overview and examples of the types of tools that you can use to manage your data, make compelling maps, and tell convincing stories.
-- **Collections**: Descriptions of a variety of spatial formats like maps, atlases, satellite imagery, aerial photos, and geographic data, as well as where you can find these at Stanford Libraries and in the web.
-- **Resources**: A list of important resources for
-- **How Do I?**: An FAQ-style set of common questions asked by people beginning their work with spatial information.
-- **About**: Important information for understanding the context of this toolkit.
-- **Contact and Help**: Last but not least, information about how to contact people and resources who can support you at Stanford.
+## Physical maps, atlases, and globes
+Most of our physical maps are housed in two libraries: the **David Rumsey Map Center** and **Branner Earth Science Library & Map Collections**. The Rumsey Center primarily specializes in rare and historic material that needs special care and must be viewed by appointment in the center. Branner primarily houses more contemporary (20th c. and newer) material which can usually be checked out. Depending on your research topic you may find useful maps in both collections. Library staff in both branches are available to help you locate and work with relevant collection material regardless of where it is physically stored.
 
-## Contribute
++ [Learn more about finding and viewing physical material](how-do-i.md)
 
-This site is openly developed on GitHub, and we welcome Issues and Pull Requests if you would like to suggest improvements.
-
-[View in GitHub](https://github.com/davidrumseymapcenter/thinking-spatially-toolkit){: .btn .btn-primary}
++ [Learn more about Stanford Library locations](resources.md)

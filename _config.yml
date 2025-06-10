@@ -97,40 +97,10 @@ navbar:
     url: # default["url/baseurl"]
     img: # An small image, try 30x30px
   nav:
-    - title: Introduction # Label
-      url: /introduction
-    - title: Tools
-      url: /tools
-    # - title   : Project Design
-    #   child   :
-    #     - title : Data Management
-    #       url   : project-design/data-management
-    #     - title : Timelines
-    #       url   : project-design/timelines
-    #     - title : Resourcing
-    #       url   : project-design/resourcing
-    #     - title : Usability
-    #       url   : project-design/usability
-    - title: Collections
-      url: /collections
-    - title: Resources
-      url: /resources
-    - title: How do I?
-      url: /how-do-i
     - title: California as an Island
       url: /modules/california-as-an-island
-    - title: About
-      url: /about
-    - title: Contact and Help
-      url: /contact
-
-#  - title   : # Label submenu
-#    child:
-#    - title: # Child label
-#      url  : # child url
-#    - title: # Child label
-#      url  : # child url
-#Social links to be placed on your site footer
+    - title: Northwest Passage
+      url: /modules/northwest-passage
 footer:
   links:
     - label: View in Github # Label
@@ -251,4 +221,3 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
